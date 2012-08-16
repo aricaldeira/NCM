@@ -6,6 +6,10 @@ texto.
 As tabelas oficiais da TIPI - NCM foram baixadas de:
 http://www.receita.fazenda.gov.br/aliquotas/downloadarqtipi.htm
 
+Atenção: *não usar* o arquivo disponível em:
+http://www.receita.fazenda.gov.br/publico/tipi/TIPI.doc
+ele está com vários códigos faltando....
+
 Cada arquivo foi baixado e aberto no LibreOffice.
 
 Cada tabela dentro de cada arquivo foi convertida para texto:
