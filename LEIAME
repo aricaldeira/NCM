@@ -1,0 +1,29 @@
+
+O objetivo desse projeto é tratar os arquivos com as tabelas
+oficiais da TIPI - NCM, disponibilizando a informação em formato
+texto.
+
+As tabelas oficiais da TIPI - NCM foram baixadas de:
+http://www.receita.fazenda.gov.br/aliquotas/downloadarqtipi.htm
+
+Cada arquivo foi baixado e aberto no LibreOffice.
+
+Cada tabela dentro de cada arquivo foi convertida para texto:
+Menu Tabela, Converter..., De tabela para texto..., Outros, "|"
+
+Depois de cada tabela convertida, o arquivo foi salvo em formato texto:
+Arquivo, Salvar como..., Filtro: texto codificado (.txt), Usar texto 
+codificado, Unicode + LF
+
+Depois, todos os arquivos foram resumidos num único:
+$ cat *.txt | grep \| > tabela_ncm_ipi.txt
+
+As tabelas oficiais das CST do PIS-COFINS foram baixadas de:
+http://www.sped.fazenda.gov.br/spedtabelas/AppConsulta/publico/aspx/ConsultaTabelasExternas.aspx?CodSistema=SpedPisCofins
+
+Por fim, usando Python versão 3:
+$ python processa_tabela_ncm.py
+
+Espero que seja de ajuda!
+
+Aristides Caldeira
