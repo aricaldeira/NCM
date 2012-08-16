@@ -28,6 +28,11 @@ http://www.sped.fazenda.gov.br/spedtabelas/AppConsulta/publico/aspx/ConsultaTabe
 Por fim, usando Python versão 3:
 $ python processa_tabela_ncm.py
 
+O Python 3 foi usado para meus testes pessoais, para provas
+de conceito como utf-8 em todo lugar, inclusive em nomes de variáveis e
+métodos. A versão utilizada foi a 3.2.3, padrão no ArchLinux
+em agosto/2012.
+
 Espero que seja de ajuda!
 
 Aristides Caldeira
