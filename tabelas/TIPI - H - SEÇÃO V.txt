@@ -1,0 +1,466 @@
+﻿SEÇÃO V
+PRODUTOS MINERAIS
+Capítulo 25
+Sal; enxofre; terras e pedras; gesso, cal e cimento
+Notas.
+
+1.- Salvo disposições em contrário e sob reserva da Nota 4 abaixo, apenas se incluem nas posições do presente Capítulo os produtos em estado bruto ou os produtos lavados (mesmo por meio de substâncias químicas que eliminem as impurezas sem modificarem a estrutura do produto), partidos, triturados, pulverizados, submetidos à levigação, crivados, peneirados, enriquecidos por flotação, separação magnética ou outros processos mecânicos ou físicos (exceto a cristalização). Não estão, porém, incluídos os produtos ustulados, calcinados, resultantes de uma mistura ou que tenham recebido tratamento mais adiantado do que os indicados em cada uma das posições.
+
+Os produtos do presente Capítulo podem estar adicionados de uma substância antipoeira, desde que essa adição não torne o produto particularmente apto para usos específicos de preferência à sua aplicação geral.
+
+2.- O presente Capítulo não compreende:
+
+a) o enxofre sublimado, o precipitado e o coloidal (posição 28.02);
+b) as terras corantes contendo, em peso, 70% ou mais de ferro combinado, expresso em Fe2O3 (posição 28.21);
+c) os medicamentos e outros produtos do Capítulo 30;
+d) os produtos de perfumaria ou de toucador preparados e as preparações cosméticas (Capítulo 33);
+e) as pedras para calcetar, meios-fios e placas (lajes) para pavimentação (posição 68.01); os cubos, pastilhas e artigos semelhantes, para mosaicos (posição 68.02); as ardósias para telhados ou para revestimento de construções (posição 68.03);
+f) as pedras preciosas e semipreciosas (posições 71.02 ou 71.03);
+g) os cristais cultivados de cloreto de sódio ou de óxido de magnésio (exceto os elementos de óptica) de peso unitário igual ou superior a 2,5g, da posição 38.24; os elementos de óptica de cloreto de sódio ou de óxido de magnésio (posição 90.01);
+h) os gizes de bilhar (posição 95.04);
+ij) os gizes para escrever ou desenhar e os de alfaiate (posição 96.09).
+
+3.- Qualquer produto suscetível de se incluir na posição 25.17 e em outra posição deste Capítulo, classifica-se na posição 25.17.
+
+4.- A posição 25.30 compreende, entre outros, os seguintes produtos: a vermiculita, a perlita e as cloritas, não expandidas; as terras corantes, mesmo calcinadas ou misturadas entre si; os óxidos de ferro micáceos naturais; a espuma-do-mar natural ("Meerschaum"), mesmo em pedaços polidos; o âmbar amarelo (sucino) natural; a espuma-do-mar ("Meerschaum") e o âmbar reconstituídos, em plaquetas, varetas, barras e formas semelhantes, simplesmente moldados; o azeviche; o carbonato de estrôncio (estroncianita), mesmo calcinado, exceto o óxido de estrôncio; os resíduos e fragmentos de cerâmica, os pedaços de tijolos e os blocos de concreto quebrados.
+
+
+NCM|DESCRIÇÃO|ALÍQUOTA  (%)
+2501.00|Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes ou de agentes que assegurem uma boa fluidez; água do mar. |
+2501.00.1|Sal a granel, sem agregados|
+2501.00.11|Sal marinho|NT
+2501.00.19|Outros|NT
+2501.00.20|Sal de mesa|NT
+2501.00.90|Outros|NT
+|Ex 01 - Cloreto de sódio puro|0
+||
+2502.00.00|Piritas de ferro não ustuladas.|NT
+||
+2503.00|Enxofre de qualquer espécie, exceto o enxofre sublimado, o precipitado e o coloidal.|
+2503.00.10|A granel|0
+|Ex 01 - Em bruto ou não refinado|NT
+2503.00.90|Outros|0
+||
+25.04|Grafita natural. |
+2504.10.00|-Em pó ou em escamas|NT
+2504.90.00|-Outra|NT
+||
+25.05|Areias naturais de qualquer espécie, mesmo coradas, exceto areias metalíferas do Capítulo 26.|
+2505.10.00|-Areias siliciosas e areias quartzosas|NT
+2505.90.00|-Outras areias|NT
+||
+25.06|Quartzo (exceto areias naturais); quartzitos, mesmo desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular. |
+2506.10.00|-Quartzo|NT
+2506.20.00|-Quartzitos|NT
+||
+2507.00|Caulim e outras argilas caulínicas, mesmo calcinados.|
+2507.00.10|Caulim|NT
+2507.00.90|Outros|NT
+||
+25.08|Outras argilas (exceto argilas expandidas da posição 68.06), andaluzita, cianita, silimanita, mesmo calcinadas; mulita; barro cozido em pó (terra de “chamotte”) e terra de dinas.|
+2508.10.00|-Bentonita|NT
+2508.30.00|-Argilas refratárias|NT
+2508.40|-Outras argilas|
+2508.40.10|Plásticas, com teor de Fe2O3, em peso, inferior a 1,5% e com perda por calcinação, em peso, superior a 12%|NT
+2508.40.90|Outras|NT
+2508.50.00|-Andaluzita, cianita e silimanita|NT
+2508.60.00|-Mulita|NT
+2508.70.00|-Barro cozido em pó (terra de “chamotte”) e terra de dinas|NT
+||
+2509.00.00|Cré.|NT
+||
+25.10|Fosfatos de cálcio naturais, fosfatos aluminocálcicos naturais e cré fosfatado.|
+2510.10|-Não moídos|
+2510.10.10|Fosfatos de cálcio naturais|NT
+2510.10.90|Outros|NT
+2510.20|-Moídos|
+2510.20.10|Fosfatos de cálcio naturais|NT
+2510.20.90|Outros|NT
+||
+25.11|Sulfato de bário natural (baritina); carbonato de bário natural (“witherita”), mesmo calcinado, exceto o óxido de bário da posição 28.16.|
+2511.10.00|-Sulfato de bário natural (baritina)|NT
+2511.20.00|-Carbonato de bário natural (“witherita”)|NT
+||
+2512.00.00|Farinhas siliciosas fósseis (por exemplo, “kieselguhr”, tripolita, diatomita) e outras terras siliciosas análogas de densidade aparente não superior a 1, mesmo calcinadas.|NT
+||
+25.13|Pedra-pomes; esmeril; corindo natural, granada natural e outros abrasivos naturais, mesmo tratados termicamente. |
+2513.10.00|-Pedra-pomes|NT
+2513.20.00|-Esmeril, corindo natural, granada natural e outros abrasivos naturais|NT
+||
+2514.00.00|Ardósia, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular. |NT
+||
+25.15|Mármores, travertinos, granitos belgas e outras pedras calcárias de cantaria ou de construção, de densidade aparente igual ou superior a 2,5, e alabastro, mesmo desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular.|
+2515.1|-Mármores e travertinos:|
+2515.11.00|--Em bruto ou desbastados|NT
+2515.12|--Simplesmente cortados a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular|
+2515.12.10|Mármores|NT
+2515.12.20|Travertinos|NT
+2515.20.00|-Granitos belgas e outras pedras calcárias de cantaria ou de construção; alabastro|NT
+||
+25.16|Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de construção, mesmo desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular. |
+2516.1|-Granito:|
+2516.11.00|--Em bruto ou desbastado|NT
+2516.12.00|--Simplesmente cortado a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular|NT
+2516.20.00|-Arenito|NT
+2516.90.00|-Outras pedras de cantaria ou de construção|NT
+||
+25.17|Calhaus, cascalho, pedras britadas, dos tipos geralmente usados em concreto ou para empedramento de estradas, de vias férreas ou outros balastros, seixos rolados e sílex, mesmo tratados termicamente; macadame de escórias de altos-fornos, de outras escórias ou de resíduos industriais semelhantes, mesmo contendo matérias incluídas na primeira parte do texto desta posição; tarmacadame; grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente. |
+2517.10.00|-Calhaus, cascalho, pedras britadas, dos tipos geralmente usados em concreto ou para empedramento de estradas, de vias férreas ou outros balastros, seixos rolados e sílex, mesmo tratados termicamente|NT
+2517.20.00|-Macadame de escórias de altos-fornos, de outras escórias ou de resíduos industriais semelhantes, mesmo contendo matérias incluídas na subposição 2517.10|NT
+2517.30.00|-Tarmacadame|NT
+2517.4|-Grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente:|
+2517.41.00|--De mármore|NT
+2517.49.00|--Outros|NT
+||
+25.18|Dolomita, mesmo sinterizada ou calcinada, incluída a dolomita desbastada ou simplesmente cortada a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular; aglomerados de dolomita.|
+2518.10.00|-Dolomita não calcinada nem sinterizada, denominada “crua”|NT
+2518.20.00|-Dolomita calcinada ou sinterizada|NT
+2518.30.00|-Aglomerados de dolomita|NT
+||
+25.19|Carbonato de magnésio natural (magnesita); magnésia eletrofundida; magnésia calcinada a fundo (sinterizada), mesmo contendo pequenas quantidades de outros óxidos adicionados antes da sinterização; outro óxido de magnésio, mesmo puro.|
+2519.10.00|-Carbonato de magnésio natural (magnesita)|NT
+2519.90|-Outros|
+2519.90.10|Magnésia eletrofundida|NT
+2519.90.90|Outros|NT
+||
+25.20|Gipsita; anidrita; gesso, mesmo corado ou adicionado de pequenas quantidades de aceleradores ou retardadores.|
+2520.10|-Gipsita; anidrita|
+2520.10.1|Gipsita|
+2520.10.11|Em pedaços irregulares (pedras)|NT
+2520.10.19|Outros|NT
+2520.10.20|Anidrita|NT
+2520.20|-Gesso|
+2520.20.10|Moído, apto para uso odontológico|0
+2520.20.90|Outros|NT
+||
+2521.00.00|Castinas; pedras calcárias utilizadas na fabricação de cal ou de cimento.|NT
+||
+25.22|Cal viva, cal apagada e cal hidráulica, com exclusão do óxido e do hidróxido de cálcio da posição 28.25.|
+2522.10.00|-Cal viva|NT
+2522.20.00|-Cal apagada|NT
+2522.30.00|-Cal hidráulica|NT
+||
+25.23|Cimentos hidráulicos (incluídos os cimentos não pulverizados, denominados “clinkers”), mesmo corados.|
+2523.10.00|-Cimentos não pulverizados, denominados “clinkers”|4
+2523.2|-Cimentos “Portland”:|
+2523.21.00|--Cimentos brancos, mesmo corados artificialmente|0
+2523.29|--Outros|
+2523.29.10|Cimento comum|0
+2523.29.90|Outros|0
+2523.30.00|-Cimentos aluminosos|4
+2523.90.00|-Outros cimentos hidráulicos|4
+||
+25.24|Amianto.|
+2524.10.00|-Crocidolita|NT
+2524.90.00|-Outros|NT
+||
+25.25|Mica, incluída a mica clivada em lamelas irregulares (“splittings”); desperdícios de mica. |
+2525.10.00|-Mica em bruto ou clivada em folhas ou lamelas irregulares ("splittings")|NT
+2525.20.00|-Mica em pó|NT
+2525.30.00|-Desperdícios de mica|NT
+||
+25.26|Esteatita natural, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular; talco. |
+2526.10.00|-Não triturados nem em pó|NT
+2526.20.00|-Triturados ou em pó|NT
+||
+25.28|Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de salmouras naturais; ácido bórico natural com teor máximo de 85% de H3BO3, em produto seco.|
+2528.10.00|-Boratos de sódio naturais e seus concentrados (mesmo calcinados)|NT
+2528.90.00|-Outros|NT
+||
+25.29|Feldspato; leucita; nefelina e nefelina-sienito; espatoflúor.|
+2529.10.00|-Feldspato|NT
+2529.2|-Espatoflúor:|
+2529.21.00|--Contendo, em peso, 97% ou menos de fluoreto de cálcio|NT
+2529.22.00|--Contendo, em peso, mais de 97% de fluoreto de cálcio|NT
+2529.30.00|-Leucita; nefelina e nefelina-sienito|NT
+||
+25.30|Matérias minerais não especificadas nem compreendidas em outras posições.|
+2530.10|-Vermiculita, perlita e cloritas, não expandidas|
+2530.10.10|Perlita|NT
+2530.10.90|Outras|NT
+2530.20.00|-Quiserita, epsomita (sulfatos de magnésio naturais)|NT
+2530.90|-Outras|
+2530.90.10|Espodumênio|NT
+2530.90.20|Areia de zircônio micronizada, própria para a preparação de esmaltes cerâmicos|NT
+2530.90.30|Minerais de metais das terras raras|NT
+2530.90.40|Terras corantes|NT
+2530.90.90|Outras|NT
+Capítulo 26
+Minérios, escórias e cinzas
+Notas.
+
+1.- O presente Capítulo não compreende:
+
+a) as escórias de altos-fornos e os desperdícios industriais semelhantes, preparados sob a forma de macadame (posição 25.17);
+b) o carbonato de magnésio natural (magnesita), mesmo calcinado (posição 25.19);
+c) as lamas provenientes dos reservatórios de armazenagem dos óleos de petróleo, constituídas principalmente por esses óleos (posição 27.10);
+d) as escórias de desfosforação do Capítulo 31;
+e) as lãs de escórias de altos-fornos, de outras escórias, de rocha e as lãs minerais semelhantes (posição 68.06);
+f) os desperdícios e resíduos, de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê); os outros desperdícios e resíduos contendo metais preciosos ou compostos de metais preciosos do tipo dos utilizados principalmente para recuperação dos metais preciosos (posição 71.12);
+g) os mates de cobre, de níquel e de cobalto, obtidos por fusão dos minérios (Seção XV).
+
+2. Na acepção das posições 26.01 a 26.17, consideram-se minérios os minérios das espécies mineralógicas efetivamente utilizados em metalurgia, para a extração de mercúrio, dos metais da posição 28.44 ou dos metais das Seções XIV ou XV, mesmo que se destinem a fins não metalúrgicos, mas desde que não tenham sido submetidos a preparações diferentes das normalmente reservadas aos minérios da indústria metalúrgica.
+
+3.- A posição 26.20 apenas compreende:
+
+a) as escórias, as cinzas e os resíduos dos tipos utilizados na indústria para extração de metais ou para fabricação de compostos metálicos, com exclusão das cinzas e resíduos provenientes da incineração de lixos municipais (posição 26.21);
+b) as escórias, as cinzas e os resíduos contendo arsênio, mesmo contendo metais, dos tipos utilizados para extração de arsênio ou de metais ou para fabricação dos seus compostos químicos.
+
+Notas de Subposições.
+
+1.- Na acepção da subposição 2620.21, consideram-se lamas de gasolina contendo chumbo e lamas de compostos antidetonantes contendo chumbo as lamas provenientes dos reservatórios de armazenagem de gasolina e de compostos antidetonantes, contendo chumbo (por exemplo, tetraetila de chumbo tetraetila), constituídas essencialmente de chumbo, compostos de chumbo e de óxido de ferro.
+
+2.- As escórias, as cinzas e os resíduos contendo arsênio, mercúrio, tálio ou suas misturas, dos tipos utilizados para extração de arsênio ou desses metais ou para fabricação dos seus compostos químicos, são classificados na subposição 2620.60.
+
+
+NCM|DESCRIÇÃO|ALÍQUOTA  (%)
+26.01|Minérios de ferro e seus concentrados, incluídas as piritas de ferro ustuladas (cinzas de piritas).|
+2601.1|-Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas):|
+2601.11.00|--Não aglomerados|NT
+2601.12.00|--Aglomerados|NT
+2601.20.00|-Piritas de ferro ustuladas (cinzas de piritas)|NT
+||
+2602.00|Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor em manganês de 20% ou mais, em peso, sobre o produto seco.|
+2602.00.10|Aglomerados|NT
+2602.00.90|Outros|NT
+||
+2603.00|Minérios de cobre e seus concentrados.|
+2603.00.10|Sulfetos|NT
+2603.00.90|Outros|NT
+||
+2604.00.00|Minérios de níquel e seus concentrados.|NT
+||
+2605.00.00|Minérios de cobalto e seus concentrados.|NT
+||
+2606.00|Minérios de alumínio e seus concentrados.|
+2606.00.1|Bauxita|
+2606.00.11|Não calcinada|NT
+2606.00.12|Calcinada|NT
+2606.00.90|Outros|NT
+||
+2607.00.00|Minérios de chumbo e seus concentrados.|NT
+||
+2608.00|Minérios de zinco e seus concentrados.|
+2608.00.10|Sulfetos|NT
+2608.00.90|Outros|NT
+||
+2609.00.00|Minérios de estanho e seus concentrados.|NT
+||
+2610.00|Minérios de cromo e seus concentrados.|
+2610.00.10|Cromita|NT
+2610.00.90|Outros|NT
+||
+2611.00.00|Minérios de tungstênio e seus concentrados.|NT
+||
+26.12|Minérios de urânio ou de tório, e seus concentrados.|
+2612.10.00|-Minérios de urânio e seus concentrados|NT
+2612.20.00|-Minérios de tório e seus concentrados|NT
+||
+26.13|Minérios de molibdênio e seus concentrados.|
+2613.10|-Ustulados|
+2613.10.10|Molibdenita|NT
+2613.10.90|Outros|NT
+2613.90|-Outros|
+2613.90.10|Molibdenita|NT
+2613.90.90|Outros|NT
+||
+2614.00|Minérios de titânio e seus concentrados.|
+2614.00.10|Ilmenita|NT
+2614.00.90|Outros|NT
+||
+26.15|Minérios de nióbio, tântalo, vanádio ou de zircônio, e seus concentrados.|
+2615.10|-Minérios de zircônio e seus concentrados|
+2615.10.10|Badeleíta|NT
+2615.10.20|Zirconita|NT
+2615.10.90|Outros|NT
+2615.90.00|-Outros|NT
+||
+26.16|Minérios de metais preciosos e seus concentrados.|
+2616.10.00|-Minérios de prata e seus concentrados|NT
+2616.90.00|-Outros|NT
+||
+26.17|Outros minérios e seus concentrados.|
+2617.10.00|-Minérios de antimônio e seus concentrados|NT
+2617.90.00|-Outros|NT
+||
+2618.00.00|Escória de altos-fornos granulada (areia de escória) proveniente da fabricação de ferro fundido, ferro ou aço.|NT
+||
+2619.00.00|Escórias (exceto escória de altos-fornos granulada) e outros desperdícios da fabricação de ferro fundido, ferro ou aço.|NT
+||
+26.20|Escórias, cinzas e resíduos (exceto os provenientes da fabricação do ferro fundido, ferro ou aço) contendo metais, arsênio, ou os seus compostos.|
+2620.1|-Contendo principalmente zinco:|
+2620.11.00|--Mates de galvanização|NT
+2620.19.00|--Outros|NT
+2620.2|-Contendo principalmente chumbo:|
+2620.21.00|--Lamas de gasolina contendo chumbo e lamas de compostos antidetonantes contendo chumbo|NT
+2620.29.00|--Outros|NT
+2620.30.00|-Contendo principalmente cobre|NT
+2620.40.00|-Contendo principalmente alumínio|NT
+2620.60.00|-Contendo arsênio, mercúrio, tálio ou suas misturas, dos tipos utilizados para extração de arsênio ou desses metais ou para fabricação dos seus compostos químicos|NT
+2620.9|-Outros:|
+2620.91.00|--Contendo antimônio, berílio, cádmio, cromo ou suas misturas|NT
+2620.99|--Outros|
+2620.99.10|Contendo principalmente titânio|NT
+2620.99.90|Outros|NT
+||
+26.21|Outras escórias e cinzas, incluídas as cinzas de algas; cinzas e resíduos provenientes da incineração de lixos municipais.|
+2621.10.00|-Cinzas e resíduos provenientes da incineração de lixos municipais|NT
+2621.90|-Outras|
+2621.90.10|Cinzas de origem vegetal|NT
+2621.90.90|Outras|NT
+Capítulo 27
+Combustíveis minerais, óleos minerais e produtos da sua destilação;
+matérias betuminosas; ceras minerais
+Notas.
+
+1.- O presente Capítulo não compreende:
+
+a) os produtos orgânicos de constituição química definida apresentados isoladamente; esta exclusão não se aplica ao metano nem ao propano puros, que se classificam na posição 27.11;
+b) os medicamentos incluídos nas posições 30.03 ou 30.04;
+c) as misturas de hidrocarbonetos não saturados das posições 33.01, 33.02 ou 38.05.
+
+2.- A expressão óleos de petróleo ou de minerais betuminosos, empregada no texto da posição 27.10, aplica-se não só aos óleos de petróleo ou de minerais betuminosos, mas também aos óleos análogos, bem como aos constituídos principalmente por misturas de hidrocarbonetos não saturados nos quais os constituintes não aromáticos predominem, em peso, relativamente aos constituintes aromáticos, seja qual for o processo de obtenção.
+
+Todavia, a expressão não se aplica às poliolefinas sintéticas líquidas que destilem uma fração inferior a 60%, em volume, a 300°C e à pressão de 1.013 milibares, por aplicação de um método de destilação a baixa pressão (Capítulo 39).
+
+3.- Na acepção da posição 27.10, consideram-se resíduos de óleos os resíduos contendo principalmente óleos de petróleo ou de minerais betuminosos (tais como descritos na Nota 2 do presente Capítulo), misturados ou não com água. Esses resíduos compreendem, principalmente:
+
+a)  os óleos impróprios para sua utilização original (por exemplo, óleos lubrificantes usados, óleos hidráulicos usados, óleos para transformadores usados);
+b) as lamas de óleos provenientes de reservatórios de produtos petrolíferos, constituídas principalmente de óleos deste tipo e uma alta concentração de aditivos (por exemplo, produtos químicos) utilizados na fabricação dos produtos primários;
+c)  os óleos apresentados na forma de emulsões em água ou de misturas com água, tais como os resultantes do transbordamento ou da lavagem de cisternas e de reservatórios de armazenagem, ou da utilização de óleos de corte nas operações de usinagem.
+
+Notas de Subposições.
+
+1.- Na acepção da subposição 2701.11, considera-se antracita uma hulha de teor limite em matérias voláteis (calculado sobre o produto seco, sem matérias minerais) não superior a 14%.
+
+2.- Na acepção da subposição 2701.12, considera-se hulha betuminosa uma hulha de teor limite em matérias voláteis (calculado sobre o produto seco, sem matérias minerais) superior a 14% e cujo valor calorífico limite (calculado sobre o produto úmido, sem matérias minerais) seja igual ou superior a 5.833kcal/kg.
+
+3.- Na acepção das subposições 2707.10, 2707.20, 2707.30 e 2707.40, consideram-se benzol (benzeno), toluol (tolueno), xilol (xilenos) e naftaleno os produtos contendo, respectivamente, mais de 50%, em peso, de benzeno, tolueno, xilenos ou de naftaleno.
+
+4.- Na acepção da subposição 2710.11, óleos leves e preparações são aqueles que destilam, incluídas as perdas, uma fração igual ou superior a 90%, em volume, a 210°C, segundo o método ASTM D 86.
+
+Nota Complementar.
+
+1. O termo Gasolinas utilizado no texto do item 2710.11.5 compreende toda mistura de hidrocarbonetos leves apta para utilização em motores a explosão, denominada “nafta” na Argentina, no Paraguai e no Uruguai. Essas misturas não se devem confundir com as Naftas do item 2710.11.4 geralmente utilizadas na petroquímica ou como solventes.
+
+
+NCM|DESCRIÇÃO|ALÍQUOTA  (%)
+27.01|Hulhas; briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha.|
+2701.1|-Hulhas, mesmo em pó, mas não aglomeradas:|
+2701.11.00|--Antracita|NT
+2701.12.00|--Hulha betuminosa|NT
+2701.19.00|--Outras hulhas|NT
+2701.20.00|-Briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha|NT
+||
+27.02|Linhitas, mesmo aglomeradas, exceto azeviche.|
+2702.10.00|-Linhitas, mesmo em pó, mas não aglomeradas|NT
+2702.20.00|-Linhitas aglomeradas|NT
+||
+2703.00.00|Turfa (incluída a turfa para cama de animais), mesmo aglomerada.|NT
+||
+2704.00|Coques e semicoques, de hulha, de linhita ou de turfa, mesmo aglomerados; carvão de retorta.|
+2704.00.10|Coques|NT
+2704.00.90|Outros|NT
+||
+2705.00.00|Gás de hulha, gás de água, gás pobre (gás de ar) e gases semelhantes, exceto gases de petróleo e outros hidrocarbonetos gasosos. |NT
+||
+2706.00.00|Alcatrões de hulha, de linhita ou de turfa e outros alcatrões minerais, mesmo desidratados ou parcialmente destilados, incluídos os alcatrões reconstituídos.|NT
+||
+27.07|Óleos e outros produtos provenientes da destilação dos alcatrões de hulha a alta temperatura; produtos análogos em que os constituintes aromáticos predominem, em peso, relativamente aos constituintes não aromáticos.|
+2707.10.00|-Benzol (benzeno)|0
+2707.20.00|-Toluol (tolueno)|0
+2707.30.00|-Xilol (xilenos)|0
+2707.40.00|-Naftaleno|0
+2707.50.00|-Outras misturas de hidrocarbonetos aromáticos que destilem, incluídas as perdas, uma fração superior ou igual a 65% , em volume, a 250°C, segundo o método ASTM D 86|0
+2707.9|-Outros:|
+2707.91.00|--Óleos de creosoto|0
+2707.99|--Outros|
+2707.99.10|Cresóis|0
+2707.99.90|Outros|0
+||
+27.08|Breu e coque de breu obtidos a partir do alcatrão de hulha ou de outros alcatrões minerais.|
+2708.10.00|-Breu|5
+2708.20.00|-Coque de breu|5
+||
+2709.00|Óleos brutos de petróleo ou de minerais betuminosos.|
+2709.00.10|De petróleo|NT
+2709.00.90|Outros|NT
+||
+27.10|Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas em outras posições, contendo, como constituintes básicos, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos; resíduos de óleos. |
+2710.1|-Óleos de petróleo ou de minerais betuminosos (exceto óleos brutos) e preparações não especificadas nem compreendidas em outras posições, contendo, como constituintes básicos, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos, exceto resíduos de óleos:|
+2710.11|--Óleos leves e preparações|
+2710.11.10|Hexano comercial |8
+2710.11.2|Misturas de alquilidenos |
+2710.11.21|Diisobutileno|8
+2710.11.29|Outras|8
+2710.11.30|Aguarrás mineral (“White spirit”)|NT
+2710.11.4|Naftas|
+2710.11.41|Para petroquímica|NT
+2710.11.49|Outras|NT
+2710.11.5|Gasolinas|
+2710.11.51|De aviação|NT
+2710.11.59|Outras|NT
+2710.11.60|Mistura de hidrocarbonetos acíclicos e cíclicos, saturados, derivados de frações de petróleo, contendo em peso, menos de 2%, de hidrocarbonetos aromáticos, cuja curva de destilação, segundo o método ASTM D 86, apresenta um ponto inicial mínimo de 70ºC e uma fração de destilado superior ou igual a 90%, em volume, a 210ºC|8
+2710.11.90|Outros |8
+|Ex 01 - Òleos parcialmente refinados|NT
+|Ex 02 - Óleos para lamparina de mecha ("signal-oil")|NT
+2710.19|--Outros|
+2710.19.1|Querosenes|
+2710.19.11|De aviação|NT
+2710.19.19|Outros|NT
+2710.19.2|Outros óleos combustíveis|
+2710.19.21|“Gasóleo" (óleo diesel)|NT
+2710.19.22|“Fuel-oil”|NT
+2710.19.29|Outros|NT
+2710.19.3|Óleos lubrificantes|
+2710.19.31|Sem aditivos|NT
+2710.19.32|Com aditivos|NT
+2710.19.9|Outros|
+2710.19.91|Óleos minerais brancos (óleos de vaselina ou de parafina)|0
+2710.19.92|Líquidos para transmissões hidráulicas|8
+2710.19.93|Óleos para isolamento elétrico|8
+2710.19.94|Mistura de hidrocarbonetos acíclicos e cíclicos, saturados, derivados de frações de petróleo, contendo, em peso, menos de 2%, de hidrocarbonetos aromáticos, que destila, segundo o método ASTM D 86, uma fração inferior a 90%, em volume, a 210ºC com um ponto final máximo de 360ºC|8
+2710.19.99|Outros|8
+|Ex 01 - Óleos parcialmente refinados|NT
+|Ex 02 - Óleos para lamparina de mecha ("signal-oil")|NT
+2710.9|-Resíduos de óleos:|
+2710.91.00|--Contendo difenilas policloradas (PCB), terfenilas policloradas (PCT) ou difenilas polibromadas (PBB)|0
+2710.99.00|--Outros|0
+||
+27.11|Gás de petróleo e outros hidrocarbonetos gasosos.|
+2711.1|-Liquefeitos:|
+2711.11.00|--Gás natural|NT
+2711.12|--Propano|
+2711.12.10|Bruto|NT
+2711.12.90|Outros|NT
+2711.13.00|--Butanos|NT
+2711.14.00|--Etileno, propileno, butileno e butadieno|NT
+2711.19|--Outros|
+2711.19.10|Gás liquefeito de petróleo (GLP)|NT
+2711.19.90|Outros|NT
+2711.2|-No estado gasoso:|
+2711.21.00|--Gás natural|NT
+2711.29|--Outros|
+2711.29.10|Butanos|NT
+2711.29.90|Outros|NT
+||
+27.12|Vaselina; parafina, cera de petróleo microcristalina, “slack wax”, ozocerite, cera de linhita, cera de turfa, outras ceras minerais e produtos semelhantes obtidos por síntese ou por outros processos, mesmo corados.|
+2712.10.00|-Vaselina|8
+2712.20.00|-Parafina contendo, em peso, menos de 0,75% de óleo|0
+2712.90.00|-Outros|0
+||
+27.13|Coque de petróleo, betume de petróleo e outros resíduos dos óleos de petróleo ou de minerais betuminosos.|
+2713.1|-Coque de petróleo:|
+2713.11.00|--Não calcinado|4
+2713.12.00|--Calcinado|4
+2713.20.00|-Betume de petróleo|0
+2713.90.00|-Outros resíduos dos óleos de petróleo ou de minerais betuminosos|4
+||
+27.14|Betumes e asfaltos, naturais; xistos e areias betuminosos; asfaltitas e rochas asfálticas.|
+2714.10.00|-Xistos e areias betuminosos|NT
+2714.90.00|-Outros|NT
+||
+2715.00.00|Misturas betuminosas à base de asfalto ou de betume naturais, de betume de petróleo, de alcatrão mineral ou de breu de alcatrão mineral (por exemplo, mástiques betuminosos e “cut-backs”).|0
+||
+2716.00.00|Energia elétrica.|NT
+

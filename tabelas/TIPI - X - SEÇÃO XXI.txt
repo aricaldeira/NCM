@@ -1,0 +1,38 @@
+﻿SEÇÃO XXI
+OBJETOS DE ARTE, DE COLEÇÃO E ANTIGÜIDADES
+Capítulo 97
+Objetos de arte, de coleção e antigüidades
+Notas.
+
+1.- O presente Capítulo não compreende:
+
+a) os selos postais, selos fiscais, inteiros postais e semelhantes, não obliterados, da posição 49.07;
+b) as telas pintadas para cenários teatrais, para fundos de estúdio ou para usos semelhantes (posição 59.07), salvo se puderem classificar-se na posição 97.06;
+c) as pérolas naturais ou cultivadas e as pedras preciosas ou semipreciosas (posições 71.01 a 71.03).
+
+2.- Consideram-se gravuras, estampas e litografias, originais, na acepção da posição 97.02, as provas tiradas diretamente, em preto e branco ou a cores, de uma ou mais chapas executadas inteiramente à mão pelo artista, qualquer que seja a técnica ou matéria utilizada, exceto qualquer processo mecânico ou fotomecânico.
+
+3.- Não se incluem na posição 97.03 as esculturas com caráter comercial (por exemplo: reproduções em série, moldagens e obras artesanais), mesmo quando essas obras tenham sido concebidas ou criadas por artistas.
+
+4.- A) Ressalvadas as disposições das Notas 1, 2 e 3 anteriores, os artigos suscetíveis de se classificarem no presente Capítulo e em outros Capítulos da Nomenclatura, classificam-se no presente Capítulo.
+ B) Os artigos suscetíveis de se classificarem na posição 97.06 e nas posições 97.01 a 97.05 classificam-se nas posições 97.01 a 97.05.
+
+5.- As molduras de quadros, pinturas, desenhos, colagens e quadros decorativos semelhantes, gravuras, estampas e de litografias classificam-se com estes artigos quando as suas características e valor sejam compatíveis com os dos referidos artigos. As molduras cujas características ou valor não sejam compatíveis com os artefatos referidos na presente Nota, seguem o seu regime próprio.
+
+
+NCM|DESCRIÇÃO|ALÍQUOTA (%)
+97.01|Quadros, pinturas e desenhos, feitos inteiramente à mão, exceto os desenhos da posição 49.06 e os artigos manufaturados decorados à mão; colagens e quadros decorativos semelhantes.| 
+9701.10.00|-Quadros, pinturas e desenhos|NT
+9701.90.00|-Outros|0
+ |Ex 01 - De flores, botões de flores ou de outras partes de plantas naturais, ervas, musgos e líquens|NT
+ | | 
+9702.00.00|Gravuras, estampas e litografias, originais.|NT
+ | | 
+9703.00.00|Produções originais de arte estatuária ou de escultura, de quaisquer matérias.|NT
+ | | 
+9704.00.00|Selos postais, selos fiscais, marcas postais, envelopes de primeiro dia (F.D.C. – “first-day cover”), inteiros postais e semelhantes, obliterados, ou não obliterados, exceto os artigos da posição 49.07.|NT
+ | | 
+9705.00.00|Coleções e espécimes para coleções, de zoologia, botânica, mineralogia, anatomia, ou apresentando interesse histórico, arqueológico, paleontológico, etnográfico ou numismático.|NT
+ | | 
+9706.00.00|Antigüidades com mais de 100 anos.|NT
+
