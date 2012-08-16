@@ -1,0 +1,9 @@
+versão=1.0 cod|Descrição do Produto|dt_ini|dt_fin|NCM|NCM EXCECAO|EX - Tabela Operações sem Incidência da Contribuição Social
+101|Venda de querosene de aviação por pessoa jurídica não enquadrada na condição de importadora ou produtora|01012009||||
+102|Venda de querosene de aviação por produtora ou importadora a distribuidora, quando o produto for destinado ao consumo por aeronave em tráfego internacional|01012009||||
+201|Vendas de biodiesel por pessoas não enquadradas como produtor ou importador|01012009||||
+301|Vendas de materiais e equipamentos, bem assim da prestação de serviços decorrentes dessas operações, efetuadas diretamente a Itaipu Binacional|01012009||||
+401|Exportação de mercadorias para o exterior|01012009||||
+402|Serviços prestados a pessoas físicas ou jurídicas residentes ou domiciliadas no exterior, cujo pagamento represente ingresso de divisas|01012009||||
+403|Vendas, com o fim específico de exportação, a empresa comercial exportadora constituída nos termos do Decreto-Lei nº 1.248, de 29 de novembro de 1972, ou simplesmente registrada na Secretaria de Comércio Exterior (Secex) do Ministério do Desenvolvimento, Indústria e Comércio Exterior|01012009||||
+999|Outras receitas sem incidência|01012009||||

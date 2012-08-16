@@ -1,0 +1,14 @@
+versão=4 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, ALIQ_PIS, ALIQ_COFIN
+101|Cigarros, de fumo (tabaco) ou dos seus sucedâneos|01012009||2402|||0,65|3,0
+102|Cigarrilhas|01082011||24021000|||0,65|3,0
+201|Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral; carros laterais|01012009||8711|||0,65|3,0
+301|Semeadores, plantadores e transplantadores|01012009|||||0,65|3,0
+401|Álcool, inclusive para fins carburantes - Vendas por Produtor/Importador|01012009|||||8,57|39,43
+402|Álcool, inclusive para fins carburantes - Vendas por Distribuidor|01012009|||||21,43|98,57
+403|Gasolinas, Óleo Dieses e GLP|01012009||||||
+404|Veiculos|01012009||||||
+405|Autopeças|01012009||||||
+406|Pneus|01012009||||||
+407|Bebidas Frias|01012009||||||
+408|Embalagens para bebidas Frias|01012009||||||
+409|Artigos de Perfumaria|01012009||||||
