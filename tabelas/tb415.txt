@@ -1,0 +1,33 @@
+versão=9 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, ALIQ_PIS, ALIQ_COFIN
+101|Gasolinas, Exceto Gasolina de Aviação|01012009||27101159|||5,08|23,44
+102|Óleo Diesel|01012009||27101951|||4,21|19,42
+103|Gás Liqüefeito de Petróleo - GLP|01012009||27111910|||10,20|47,40
+104|Querosene de Aviação|01012009||27101911|||5,00|23,20
+105|Correntes Destinadas à Formulação de Gasolinas|01012009||27101159|||5,08|23,44
+106|Correntes Destinadas à Formulação de Óleo Diesel|01012009||27101951|||4,21|19,42
+107|Nafta Petroquímica Destinada à Formulação de Gasolina ou de Óleo Diesel|01012009||27101141|||5,08|23,44
+108|Nafta Petroquímica Destinada à Formulação Exclusivamente de Óleo Diesel|01012009||27101141|||4,21|19,42
+109|Biodiesel|01012009||38249029|||6,15|28,32
+110|Nafta Petroquímica Destinada às Centrais Petroquímicas|01012009|01012011|38249029|||1,00|4,60
+111|Etano, Propano, Butano e Correntes Gasosas de Refinaria - HLR - Hidrocarbonetos Leves de Refino Destinados à Produção de Eteno e Propeno|01012009|01012011|38249029|||1,00|4,60
+112|Álcool, Inclusive para Fins Carburantes - Venda por Produtor ou Importador|01012009||22071000;22072010|||1,50|6,90
+112|Álcool, Inclusive para Fins Carburantes - Venda por Produtor ou Importador|01012009||22089000||01|1,50|6,90
+113|Álcool, Inclusive para Fins Carburantes - Venda por Distribuidor ou Comerciante Não Varejista|01012009||22071000;22072010|||3,75|17,25
+113|Álcool, Inclusive para Fins Carburantes - Venda por Distribuidor ou Comerciante Não Varejista|01012009||22089000||01|3,75|17,25
+150|Nafta Petroquímica Destinada às Centrais Petroquímicas|01012011||27101141|||1,0|4,60
+151|Etano, Propano, Butano e Correntes Gasosas de Refinaria - HLR - Hidrocarbonetos Leves de Refino Destinados à Produção de Eteno e Propeno|01012011|||||1,0|4,60
+201|Produtos Farmacêuticos|01012009||3001;3003;3004;3002101;3002102;3002103;3002201;3002202;3006301;3006302;30029020;30029092;30029099;30051010;30066000|30039056;30049046||2,10|9,90
+202|Produtos de Perfumaria, de Toucador ou de Higiene Pessoal|01012009||3303;3304;3305;3306;3307;34011190;34012010;96032100|||2,20|10,30
+301|Veículos Automotores e Máquinas Agrícolas Autopropulsadas|01012009||8429;84324000;84328000;843320;84333000;84334000;84335;8701;8702;8703;8704;8705;8706|||2,00|9,60
+302|Autopeças - Vendas para Atacadistas, Varejistas e Consumidores|01012009|||||2,30|10,80
+303|Autopeças - Vendas para Fabricantes de Veículos e Máquinas e de Autopeças|01012009|||||1,65|7,60
+304|Pneumáticos (Pneus Novos e Câmaras-de-Ar)|01012009||4011;4013|||2,00|9,50
+401|Águas Minerais Artificiais e Águas Gaseificadas Artificiais|01012009||22011000|||3,50|16,65
+402|Águas Minerais Naturais, Incluídas as Naturalmente Gaseificadas|01012009|17092012|22011000||01|3,50|16,65
+402|Águas Minerais Naturais, Incluídas as Naturalmente Gaseificadas|01012009|17092012|22011000||02|3,50|16,65
+403|Refrigerantes|01012009|||||3,50|16,65
+404|Preparações Compostas, não Alcoólicas, para Elaboração de Bebida Refrigerante|01012009|||||3,50|16,65
+405|Refrescos, Isotônicos e Energéticos|01012009|||||3,50|16,65
+406|Cervejas de Malte e Cervejas Sem Álcool|01012009|||||3,50|16,65
+407|Chope e Cervejas de Malte Quando Vendidas a Granel|01012009|||||3,50|16,65
+109|Biodiesel|01012009||38249029||01|6,15|28,32

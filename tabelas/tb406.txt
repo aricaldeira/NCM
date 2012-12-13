@@ -1,0 +1,11 @@
+versão=2 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
+101|Fornecimento de mercadorias ou serviços para uso ou consumo de bordo em embarcações e aeronaves em tráfego internacional, quando o pagamento for efetuado em moeda conversível (exceto querosene de aviação)|01012009||||
+102|Transporte internacional de cargas ou passageiros|01012009||||
+103|Receitas auferidas pelos estaleiros navais brasileiros nas atividades de construção, conservação, modernização, conversão e reparo de embarcações pré-registradas ou registradas no Registro Especial Brasileiro (REB), instituído pela Lei nº 9.432, de 8 de janeiro de 1997|01012009||||
+104|Frete de mercadorias transportadas entre o País e o exterior pelas embarcações registradas no REB, de que trata o art. 11 da Lei nº 9.432, de 1997|01012009||||
+201|Receitas relativas às atividades próprias dos templos de qualquer culto;partidos políticos;instituições de educação e de assistência social conforme art. 12 da Lei nº 9.532;instituições conforme art. 15 da Lei nº 9.532 ou previstas no art. 105 e seu § 1º da Lei nº 5.764|01012009||||
+301|Venda de energia elétrica pela Itaipu Binacional|01012009||||
+901|Recursos recebidos a título de repasse, oriundos do Orçamento Geral da União, dos Estados, do Distrito Federal e dos Municípios, pelas empresas públicas e sociedades de economia mista|01012009||||
+902|Receita da instituição privada de ensino superior, com fins lucrativos ou sem fins lucrativos não beneficente, que aderir ao Programa Universidade para Todos (Prouni), no período de vigência do termo de adesão, decorrentes da realização de atividades de ensino superior, proveniente de cursos de graduação ou cursos seqüenciais de formação específica|01012009||||
+999|Outras receitas com isenção|01012009||||
+903|Rec. bruta de venda a varejo dos componentes e equipamentos de rede,terminais e transceptores definidos em regulamento que sejam dedicados aos serviços de telecom prestados por meio das subfaixas de radiofrequência de 451 a 458 MHz e de 461 a 468 MHz,assim como por meio de estações terrenas satelitais de pequeno porte que contribuam para o PNBL|18092012|31122018|||

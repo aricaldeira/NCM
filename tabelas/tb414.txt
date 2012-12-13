@@ -1,0 +1,90 @@
+versão=15 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
+101|Adubos ou fertilizantes classificados no Capítulo 31, exceto os produtos de uso veterinário, da TIPI, e suas matérias-primas|01012009||||
+102|Defensivos agropecuários classificados na posição 38.08 da TIPI e suas matérias-primas|01012009||||
+103|Sementes e mudas destinadas à semeadura e plantio, em conformidade com o disposto na Lei no 10.711/03, e produtos de natureza biológica utilizados em sua produção|01012009||||
+104|Corretivo de solo de origem mineral classificado no Capítulo 25 da TIPI|01012009||||
+105|Legumes de vagem, secos, em grão, mesmo pelados ou partidos; arroz; farinhas e sêmolas|01012009||07133319;07133329;07133399;100620;100630;110620||
+106|Inoculantes agrícolas produzidos a partir de bactérias fixadoras de nitrogênio classificados no código 3002.90.99 da TIPI|01012009||||
+107|Vacinas para medicina veterinária|01012009||300230||
+108|Farinha, grumos e sêmolas, grãos esmagados ou em flocos, de milho, classificados, respectivamente, nos códigos 1102.20, 1103.13 e 1104.19, todos da TIPI|01012009||110220;110313||
+109|Pintos de 1 (um) dia|01012009||010511||
+110|Leite fluido pasteurizado ou industrializado, na forma de ultrapasteurizado,leite em pó,integral,semidesnatado ou desnatado,leite fermentado,bebidas e compostos lácteos e fórmulas infantis,assim definidas conforme previsão legal específica,destinados ao consumo humano ou utilizados na industrialização de produtos que se destinam ao consumo humano|01012009||||
+111|Queijos tipo mozarela, minas, prato, queijo de coalho, ricota, requeijão, queijo provolone, queijo parmesão e queijo fresco não maturado|01012009||||
+112|Soro de leite fluido a ser empregado na industrialização de produtos destinados ao consumo humano|01012009||||
+113|Farinha de trigo|01012009|31122012|11010010||
+114|Trigo|01012009|31122012|1001||
+115|Pré-misturas próprias para fabricação de pão comum e pão comum|01012009|31122012|19012000;19059090||01
+116|Produtos hortícolas e frutas|01012009||07;08||
+117|Ovos|01012009||0407||
+118|Venda de semens e embriões|01012009||05111000;05119910;05119920||
+119|Massas alimentícias classificadas na posição 19.02 da TIPI.|02122011|30062012|19021100;19021900;19022000;19023000||
+201|Aeronaves classificadas na posição 88.02 da TIPI|01012009||8802||
+202|Partes,peças,ferramentais,componentes,insumos,fluidos hidráulicos,tintas,anticorrosivos,lubrificantes,equipamentos,serviços e matérias-primas a serem empregados na manutenção,conservação,modernização,reparo,revisão,conversão e industrialização das aeronaves,seus motores,partes,componentes,ferramentais e equipamentos das aeronaves ref. no código 201|01012009||||
+203|Álcool anidro adicionado à gasolina, por distribuidores|01012009||||
+204|Álcool, inclusive para fins carburantes, em operações realizadas em bolsa de mercadorias e futuros, exceto quando ocorra a liquidação física do contrato|01012009||||
+205|Carvão mineral destinado à geração de energia elétrica|01012009||||
+206|Biodiesel fabricado a partir de matérias-primas produzidas nas regiões norte, nordeste e no semi-árido, por agricultor familiar enquadrado no PRONAF|01012009||||
+207|Valores recebidos pelos concessionários de que trata a Lei nº 6.729/1979, pela intermediação ou entrega dos veículos vendidos classificados nas posições 87.03 e 87.04 da TIPI, diretamente ao consumidor final|01012009||||
+208|Veículos novos montados sobre chassis,com capacidade para vinte e três a quarenta e quatro passageiros,classificados no código 8702.10.00 Ex 02 e 8702.90.90 Ex 02, da TIPI,destinados ao transporte escolar para a educação básica na zona rural das redes estadual,municipal e distrital,quando adquiridos pelos Estados,Municípios e pelo Distrito Federal|01012009||||
+209|Embarcações novas, com capacidade para vinte a trinta e cinco passageiros, classificadas no código 8901.90.00 da TIPI, destinadas ao transporte escolar para a educação básica na zona rural das redes estadual, municipal e distrital, quando adquiridos pelos Estados, Municípios e pelo Distrito Federal|01012009||||
+210|Materiais e equipamentos, inclusive partes, peças e componentes, destinados ao emprego na construção, conservação, modernização, conversão ou reparo de embarcações registradas ou pré-registradas no Registro Especial Brasileiro|01012009||||
+211|Veículos e carros blindados de combate, novos, armados ou não, e suas partes, produzidos no Brasil, com peso bruto total até 30 (trinta) toneladas, classificados na posição 8710.00.00 da TIPI, destinados ao uso das Forças Armadas ou órgãos de segurança pública brasileiros, quando adquiridos por órgãos e entidades da administração pública direta|01012009||||
+212|Gás natural canalizado, destinado à produção de energia elétrica pelas usinas integrantes do Programa Prioritário de Termoeletricidade, nos termos e condições estabelecidos em ato conjunto dos Ministros de Estado de Minas Energia e da Fazenda|01012009||||
+213|Serviços de transporte ferroviário em sistema de trens de alta velocidade (TAV), assim entendido como a composição utilizada para efetuar a prestação do serviço público de transporte ferroviário que consiga atingir velocidade igual ou superior a 250 km/h (duzentos e cinquenta quilômetros por hora).|01112011||||
+301|Produtos classificados na posição 87.13 da NCM (cadeiras de rodas e outros veículos)|01012009||8713||
+302|Artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM|01012009||902110||
+303|Artigos e aparelhos de próteses classificados no código 90.21.3 da NCM|01012009||90213||
+304|Almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM|01012009||||
+305|Bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS no 114/2009 quando vendidos a órgãos da administração pública direta federal, estadual, distrital e municipal|01012009||||
+306|Produtos químicos classificados no Capítulo 29 da Nomenclatura Comum do Mercosul - NCM|01012009||||
+307|Produtos químicos intermediários de síntese, classificados no Capítulo 29 da NCM|01012009||||
+308|Produtos destinados ao uso em hospitais, clínicas e consultórios médicos e odontológicos, campanhas de saúde realizadas pelo poder público, laboratório de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18, da NCM|01012009||||
+309|Produtos classificados nos códigos 8443.32.22, 8469.00.39 Ex 01, 8714.20.00, e 9021.40.00, todos da TIPI|18112011||84433222;84690039;87142000;90214000|01|
+310|Calculadoras equipadas com sintetizador de voz classificadas no código 8470.10.00 da TIPI|18112011||||
+311|Teclados com colmeia classificados no código 8471.60.52 da TIPI|18112011||||
+312|Indicadores ou apontadores - mouses - com entrada para acionador classificados no código 8471.60.53 da TIPI|18112011||||
+313|Linhas braile classificadas no código 8471.60.90 da TIPI|18112011||||
+314|Digitalizadores de imagens - scanners - equipados com sintetizador de voz classificados no código 8471.90.14 da TIPI|18112011||||
+315|Duplicadores braile classificados no código 8472.10.00 da TIPI|18112011||||
+316|Acionadores de pressão classificados no código 8471.60.53 da TIPI|18112011||||
+317|Lupas eletrônicas do tipo utilizado por pessoas com deficiência visual classificadas no código 8525.80.19 da TIPI|18112011||||
+318|Implantes cocleares classificados no código 9021.90.19 da TIPI|18112011||||
+319|Próteses oculares classificadas no código 9021.90.89 da TIPI.|18112011||||
+401|Venda a varejo de unidades de processamento digital classificadas no código 8471.50.10 da TIPI, desde que o preço de venda de cada unidade não exceda a R$ 2.000,00|01012009|17092012|||
+402|Venda a varejo de máquinas automáticas para processamento de dados,digitais,portáteis,de peso inferior a 3,5Kg,com tela (écran) de área superior a 140cm2,classificadas nos códigos 8471.30.12, 8471.30.19 ou 8471.30.90 da TIPI,desde que o preço de venda de cada máquina não exceda a R$ 4.000,00|01012009|17092012|||
+403|Venda a varejo de máquinas automáticas de processamento de dados,apresentadas sob a forma de sistemas,contendo exclusivamente 1 unidade de processamento digital,1 unidade de saída por vídeo (monitor),1 teclado (unidade de entrada),1 mouse (unidade de entrada),desde que o preço de venda de cada sistema não exceda a R$4.000,00|01012009|17092012|||
+401|Venda a varejo de unidades de processamento digital classificadas no código 8471.50.10 da TIPI, desde que o preço de venda de cada unidade não exceda a R$ 2.000,00, produzidas no País conforme processo produtivo básico estabelecido pelo Poder Executivo|18092012||||
+402|Venda a varejo de máquinas automáticas para processamento de dados, digitais, portáteis, de peso inferior a 3,5Kg, com tela de área superior a 140cm², classificadas nos códigos 8471.30.12, 8471.30.19 ou 8471.30.90 da Tipi, desde que o preço de venda de cada máquina não exceda a R$ 4.000,00, produzidas no País conforme processo produtivo básico|18092012||||
+403|Venda a varejo de máquinas automáticas de processamento de dados,apresentadas sob a forma de sistemas,contendo exclusivamente 1 unidade de processamento digital,1 unidade de saída por vídeo,1 teclado,1 mouse,desde que o preço de venda de cada sistema não exceda a R$4.000,00,produzidas no País conforme processo produtivo básico|18092012||||
+404|Venda a varejo de teclado (unidade de entrada) e de mouse (unidade de entrada) classificados, respectivamente, nos códigos 8471.60.52 e 8471.60.53 da TIPI, quando acompanharem a unidade de processamento digital classificada no código 8471.50.10 da TIPI, desde que o preço de venda de cada conjunto não exceda a R$ 2.100,00 (dois mil e cem reais)|01012009||||
+405|PADIS - Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores|01012009||||
+406|PATVD - Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Equipamentos para a TV Digital|01012009||||
+407|Venda a varejo de Tablet PC, classif. em 8471.41,prod. no País cfe. proc. produtivo básico estab. pelo P. Exec, desde que o preço de venda não exceda R$2.500,00|23052011||||
+408|Venda, a varejo de modems, classificados nas posições 8517.62.55, 8517.62.62 ou 8517.62.72 da TIPI, desde que o preço de venda não exceda R$ 150,00 (cento e cinquenta reais)|01012011||||
+901|Papel destinado à impressão de jornais|01012009||||
+902|Papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos|01012009||||
+903|Livros, conforme definido no art. 2o da Lei no 10.753/03|01012009||||
+904|Preparações compostas não-alcoólicas, classificadas no código 2106.90.10 Ex 01 da TIPI, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 58-A da Lei no 10.833/2003|01012009||||
+905|Material de defesa, classificado nas posições 87.10.00.00 e 89.06.10.00 da TIPI, além de partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na sua industrialização, montagem, manutenção, modernização e conversão|01012009||||
+906|Equipamentos de controle de produção, inclusive medidores de vazão, condutivímetros, aparelhos para controle, registro, gravação e transmissão dos quantitativos medidos, quando adquiridos por pessoas jurídicas legalmente obrigadas à sua utilização|01012009||||
+907|Valores pagos ou creditados pelos Estados, Distrito Federal e Municípios relativos ao ICMS e ao ISS, no âmbito de programas de concessão de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços|01012009||||
+908|Vendas de mercadorias destinadas ao consumo ou à industrialização na Zona Franca de Manaus – ZFM|01012009||||
+909|Vendas de mercadorias destinadas ao consumo ou à industrialização nas Áreas de Livre Comércio - ALC|01012009||||
+910|Vendas de matérias-primas, produtos intermediários e materiais de embalagem, produzidos na Zona Franca de Manaus para emprego em processo de industrialização por estabelecimentos industriais ali instalados e consoante projetos aprovados pelo SUFRAMA|01012009||||
+911|Receitas financeiras, inclusive decorrentes de operações realizadas para fins de hedge, auferidas pelas pessoas jurídicas sujeitas ao regime de incidência não-cumulativa|01012009||||
+912|Aquisição no mercado interno ou a importação, de forma combinada ou não, de mercadoria equivalente à empregada ou consumida na industrialização de produto exportado (Drawback Reposição de Estoque)|01012009||||
+913|Projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCMs|30092011||||
+999|Outros Produtos e Receitas|01012009||||
+120|Queijo do reino|31052012||||
+320|Programas - softwares - de leitores de tela que convertem texto em voz sintetizada para auxílio de pessoas com deficiência visual|18052012||||
+321|Aparelhos contendo programas - softwares - de leitores de tela que convertem texto em caracteres braile, para utilização de surdos-cegos|18052012||||
+322|Neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi|18052012||||
+119|Massas alimentícias classificadas na posição 19.02 da TIPI|01072012|31122013|19021100;19021900;19022000;19023000||
+409|Venda a varejo de telefones portáteis de redes celulares que possibilitem o acesso à internet em alta velocidade do tipo smartphone classificados na posição 8517.12.31 da Tipi, produzidos no País conforme processo produtivo básico estabelecido pelo Poder Executivo|18092012||||
+410|Venda a varejo de equipamentos terminais de clientes (roteadores digitais) classificados nas posições 8517.62.41 e 8517.62.77 da Tipi, desenvolvidos no País conforme processo produtivo básico estabelecido pelo Poder Executivo|18092012||||
+411|Venda dos produtos relacionados nos códigos 401, 402, 403, 404, 407, 408, 409 e 410 desta tabela, a pessoas jurídicas de direito privado ou por órgãos e entidades da Adm Púb Fed, Est ou Mun e do Distrito Federal, direta ou indireta, às fundações instituídas e mantidas pelo Poder Público e às demais organizações sob controle direto ou indireto|01012011||||
+412|Venda dos produtos relacionados nos códigos 401, 402, 403, 404, 407, 408, 409 e 410 desta tabela, a sociedades de arrendamento mercantil leasing|01012011||||
+914|Receita decorrente da venda de águas minerais naturais comercializadas em recipientes com capacidade nominal inferior a 10 (dez) litros ou igual ou superior a 10 (dez) litros classificadas no código 2201.10.00 Ex 01 e Ex 02 da Tipi, aprovada pelo Decreto no 7.660, de 23 de dezembro de 2011|18092012||22011000||01
+914|Receita decorrente da venda de águas minerais naturais comercializadas em recipientes com capacidade nominal inferior a 10 (dez) litros ou igual ou superior a 10 (dez) litros classificadas no código 2201.10.00 Ex 01 e Ex 02 da Tipi, aprovada pelo Decreto no 7.660, de 23 de dezembro de 2011|18092012||22011000||02
+413|Receita decorrente da venda de bens de defesa nacional definidos em ato do Poder Executivo efetuada por pessoa jurídica beneficiária do RETID à União, para uso privativo das Forças Armadas, exceto para uso pessoal e administrativo|21092012||||
+414|Receita decorrente da prestação de serviços de tecnologia industrial básica, projetos, pesquisa, desenvolvimento e inovação tecnológica, assistência técnica e transferência de tecnologia por pessoa jurídica beneficiária do RETID à União, para uso privativo das Forças Armadas, exceto para uso pessoal e administrativo|21092012||||

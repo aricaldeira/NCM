@@ -26,13 +26,18 @@ ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA = '02/04'
 ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA = '03/04'
 
 ARQUIVO = {
-    ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb379.txt',
-    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb380.txt',
+    #ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb379.txt',
+    ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb415.txt', # 01/10/2012
+    #ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb380.txt',
+    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb431.txt', # 01/10/2012
     ST_PIS_TRIB_SUBSTITUIÇÃO: 'tabelas/tb318.txt',
-    ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb381.txt',
-    ST_PIS_ISENTA: 'tabelas/tb217.txt',
+    #ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb381.txt',
+    ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb414.txt', # 01/10/2012
+    #ST_PIS_ISENTA: 'tabelas/tb217.txt',
+    ST_PIS_ISENTA: 'tabelas/tb406.txt', # 01/10/2012
     ST_PIS_SEM_INCIDÊNCIA: 'tabelas/tb218.txt',
-    ST_PIS_COM_SUSPENSÃO: 'tabelas/tb374.txt',
+    #ST_PIS_COM_SUSPENSÃO: 'tabelas/tb374.txt',
+    ST_PIS_COM_SUSPENSÃO: 'tabelas/tb417.txt', # 01/10/2012
     }
 
 COLUNA_CÓDIGO = 0
