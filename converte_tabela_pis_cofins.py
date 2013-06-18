@@ -20,6 +20,7 @@ ST_PIS_AQUIS_COM_SUSPENSAO = '72'
 ST_PIS_AQUIS_ALIQUOTA_ZERO = '73'
 ST_PIS_AQUIS_SEM_INCIDENCIA = '74'
 ST_PIS_AQUIS_SUBSTITUICAO = '75'
+ST_PIS_AQUIS_CREDITO = '50'
 
 
 ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA = '02/04'
@@ -27,17 +28,22 @@ ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA = '03/04'
 
 ARQUIVO = {
     #ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb379.txt',
-    ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb415.txt', # 01/10/2012
+    #ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb415.txt', # 01/10/2012
+    ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: 'tabelas/tb543.txt', # 04/06/2013
     #ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb380.txt',
-    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb431.txt', # 01/10/2012
+    #ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb431.txt', # 01/10/2012
+    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: 'tabelas/tb533.txt', # 04/06/2013
     ST_PIS_TRIB_SUBSTITUIÇÃO: 'tabelas/tb318.txt',
     #ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb381.txt',
-    ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb414.txt', # 01/10/2012
+    #ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb414.txt', # 01/10/2012
+    ST_PIS_TRIB_ALÍQUOTA_ZERO: 'tabelas/tb543.txt', # 04/06/2013
     #ST_PIS_ISENTA: 'tabelas/tb217.txt',
-    ST_PIS_ISENTA: 'tabelas/tb406.txt', # 01/10/2012
+    #ST_PIS_ISENTA: 'tabelas/tb406.txt', # 01/10/2012
+    ST_PIS_ISENTA: 'tabelas/tb518.txt', # 04/06/2013
     ST_PIS_SEM_INCIDÊNCIA: 'tabelas/tb218.txt',
     #ST_PIS_COM_SUSPENSÃO: 'tabelas/tb374.txt',
-    ST_PIS_COM_SUSPENSÃO: 'tabelas/tb417.txt', # 01/10/2012
+    #ST_PIS_COM_SUSPENSÃO: 'tabelas/tb417.txt', # 01/10/2012
+    ST_PIS_COM_SUSPENSÃO: 'tabelas/tb532.txt', # 04/06/2013
     }
 
 COLUNA_CÓDIGO = 0
@@ -46,6 +52,7 @@ COLUNA_EX = 2
 COLUNA_NCM_EXCLUÍDO = 3
 COLUNA_AL_PIS = 4
 COLUNA_AL_COFINS = 5
+COLUNA_UNIDADE_MEDIDA = 6
 
 #
 # COLUNAS = {
@@ -54,7 +61,7 @@ COLUNA_AL_COFINS = 5
 #
 COLUNAS = {
     ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA: [0, 4, 6, 5, 7, 8],
-    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: [0, 4, 6, 5, 8, 9],
+    ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA: [0, 4, 6, 5, 8, 9, 7],
     ST_PIS_TRIB_SUBSTITUIÇÃO: [0, 4, 6, 5, 7, 8],
     ST_PIS_TRIB_ALÍQUOTA_ZERO: [0, 4, 6, 5],
     ST_PIS_ISENTA: [0, 4, 6, 5],
@@ -66,13 +73,14 @@ COLUNAS = {
 # ANÁLISE_ST_PIS
 #
 class AnálisePIS(object):
-    def __init__(self, st_pis_cofins=''):
+    def __init__(self, st_pis_cofins=ST_PIS_TRIB_NORMAL):
         self.ncm = None
         self.código_justificativa = ''
         self.ex = ''
         self.ncm_excluído = None
         self.al_pis = ''
         self.al_cofins = ''
+        self.unidade = ''
 
         if st_pis_cofins == ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA:
             st_pis_cofins = ST_PIS_TRIB_MONOFÁSICA
@@ -80,7 +88,7 @@ class AnálisePIS(object):
             st_pis_cofins = ST_PIS_TRIB_MONOFÁSICA
 
         self.st_pis_cofins = st_pis_cofins
-        self.st_pis_cofins_entrada = ''
+        self.st_pis_cofins_entrada = ST_PIS_AQUIS_CREDITO
 
         #
         # Conversão das ST de saída para entrada
@@ -159,10 +167,13 @@ def cria_regex_tabela(st_pis_cofins):
             análise.ex = campos[COLUNAS[st_pis_cofins][COLUNA_EX]]
 
         if len(campos) <= COLUNA_AL_PIS and campos[COLUNAS[st_pis_cofins][COLUNA_AL_PIS]] != '':
-            análise.al_pis = campos[COLUNAS[st_pis_cofins, AL_PIS]]
+            análise.al_pis = campos[COLUNAS[st_pis_cofins, COLUNA_AL_PIS]]
 
         if len(campos) <= COLUNA_AL_COFINS and campos[COLUNAS[st_pis_cofins][COLUNA_AL_COFINS]] != '':
-            análise.al_cofins = campos[COLUNAS[st_pis_cofins, AL_COFINS]]
+            análise.al_cofins = campos[COLUNAS[st_pis_cofins, COLUNA_AL_COFINS]]
+
+        if len(campos) <= COLUNA_UNIDADE_MEDIDA and campos[COLUNAS[st_pis_cofins][COLUNA_UNIDADE_MEDIDA]] != '':
+            análise.unidade = campos[COLUNAS[st_pis_cofins, COLUNA_UNIDADE_MEDIDA]]
 
         ANÁLISES_ST_PIS.append(análise)
 

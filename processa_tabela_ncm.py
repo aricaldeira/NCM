@@ -61,6 +61,9 @@ def processa_linha(linha):
 
     cst_ipi_entrada = ''
     cst_ipi_saída = ''
+    al_pis = ''
+    al_cofins = ''
+    unidade = ''
 
     if al_ipi == 'NT':
         al_ipi = '-1'
@@ -111,8 +114,11 @@ def processa_linha(linha):
             código_pis_cofins = análise_pis_cofins.código_justificativa
             cst_pis_cofins_saída = análise_pis_cofins.st_pis_cofins
             cst_pis_cofins_entrada = análise_pis_cofins.st_pis_cofins_entrada
+            al_pis = análise_pis_cofins.al_pis
+            al_cofins = análise_pis_cofins.al_cofins
+            unidade = análise_pis_cofins.unidade
 
-        print('"%s"|"%s"|"%s"|%s|"%s"|"%s"|"%s"|"%s"|"%s"' % (ncm, ex, descrição, al_ipi, cst_ipi_entrada, cst_ipi_saída, cst_pis_cofins_entrada, cst_pis_cofins_saída, código_pis_cofins))
+        print('"%s"|"%s"|"%s"|%s|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"' % (ncm, ex, descrição, al_ipi, cst_ipi_entrada, cst_ipi_saída, cst_pis_cofins_entrada, cst_pis_cofins_saída, código_pis_cofins, al_pis, al_cofins, unidade ))
         return ncm
 
 
@@ -121,7 +127,7 @@ if __name__ == '__main__':
     cria_analises_pis_cofins()
     arq = open('tabelas/tabela_ncm_ipi.txt', 'r', encoding='utf-8')
 
-    print('"NCM"|"EX"|"DESCRIÇÃO"|"AL_IPI"|"CST_IPI_ENTRADA"|"CST_IPI_SAÍDA"|"CST_PIS_COFINS_ENTRADA"|"CST_PIS_COFINS_SAÍDA"|"CÓDIGO_JUSTIFICATIVA_ENQUADRAMENTO_PIS_COFINS"')
+    print('"NCM"|"EX"|"DESCRIÇÃO"|"AL_IPI"|"CST_IPI_ENTRADA"|"CST_IPI_SAÍDA"|"CST_PIS_COFINS_ENTRADA"|"CST_PIS_COFINS_SAÍDA"|"CÓDIGO_JUSTIFICATIVA_ENQUADRAMENTO_PIS_COFINS"|"AL_PIS"|"AL_COFINS"|"UNIDADE"')
     for linha in arq.readlines():
         #
         # Corrige alguns caracteres nas descrições

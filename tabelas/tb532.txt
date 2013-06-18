@@ -1,4 +1,4 @@
-versão=8 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
+versão=10 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
 101|Vendas a pessoa jurídica preponderantemente exportadora|01012009||||
 102|Vendas a fabricante de veículos e carros blindados de combate, (NCM 8710.00.00) para uso pelas forças armadas ou órgãos de segurança pública brasileiros|01012009||||
 103|Aquisição no mercado interno ou a importação, de forma combinada ou não, de mercadoria para emprego ou consumo na industrialização de produto a ser exportado, por pessoa jurídica previamente habilitada pela Secretaria de Comércio Exterior, (Drawback Integrado)|01012009||||
@@ -10,7 +10,8 @@ versão=8 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
 204|Venda de cerealista que exerça cumulativamente as atividades de limpar, padronizar, armazenar e comercializar os produtos in natura de origem vegetal, classificados nos códigos 09.01, 10.01 a 10.08, (exceto os dos códigos 1006.20 e 1006.30, 12.01 e 18.01) da NCM|01012009||||
 205|Venda a granel de leite in natura, efetuada por pessoa jurídica que exerça cumulativamente as atividades de transporte e resfriamento deste produto|01012009||||
 206|Venda por PJ que exerça atividade agropecuária ou por cooperativa de produção agropecuária de produto in natura de origem vegetal destinado à elaboração de mercadorias classificadas no código 22.04, da NCM|01012009||||
-207|Venda de animais vivos classificados na posição 01.02, à pessoa jurídica que produza mercadoria classificada nas posições 02.01, 02.02, 02.06.10.00, 02.06.20, 02.06.21, 02.06.29, 05.06.90.00, 05.10.00.10 e 15.02.00.1 da NCM|01012009||||
+207|Venda de animais vivos classificados na posição 01.02, à pessoa jurídica que produza mercadoria classificada nas posições 02.01, 02.02, 02.06.10.00, 02.06.20, 02.06.21, 02.06.29, 05.06.90.00, 05.10.00.10 e 15.02.00.1 da NCM|01012009|07032013|||
+207|Venda de animais vivos classificados na posição 01.02 e 01.04, à pessoa jurídica que produza mercadoria classificada nas posições 02.01, 02.02, 02.04, 02.06.10.00, 02.06.20, 02.06.21, 02.06.29, 05.06.90.00, 05.10.00.10 e 15.02.00.1 da NCM|08032013||||
 208|Vendas de produtos classificados nas posições 02.01, 02.02, 0206.10.00, 0206.20, 0206.21, 0206.29, 0506.90.00, 0510.00.10 e 1502.00.1, quando efetuadas por pessoa jurídica que revenda tais produtos ou que industrialize bens e produtos classificados nas posições 01.02, 02.01 e 02.02 da NCM|01012009||||
 209|Receita bruta da venda, no mercado interno, de:I–insumos de origem vegetal II–preparações dos tipos utilizados na alimentação de animais vivos;III–animais vivos classificados nas posições 01.03 e 01.05 da NCM;IV–produtos classificados nos códigos 02.03, 0206.30.00, 0206.4, 02.07 e 0210.1 da NCM|01012009|26062011|||
 209|Receita bruta da venda, no mercado interno, de:I–insumos de origem vegetal II–preparações dos tipos utilizados na alimentação de animais vivos;III–animais vivos classificados nas posições 01.03 e 01.05 da NCM;IV–produtos classificados nos códigos 02.03, 0206.30.00, 0206.4, 02.07 e 0210.1 da NCM|27062011||1001;1002;1003;1004;1005;1006;1007;1008;1201;2304;2306;0203;02063000;02064;0207;02101;0103;0105;230990;0203;02063000;02064;0207;02101;02109900|100620;100630|
@@ -37,7 +38,7 @@ versão=8 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
 407|Vendas a empresa sediada no exterior, para entrega em território nacional, de material de embalagem a ser totalmente utilizados no acondicionamento de mercadoria destinada à exportação para o exterior|01012009||||
 408|Venda de máquinas e equipamentos classificados na posição 84.39, utilizados na fabricação de papéis destinados à impressão de jornais ou de papéis, destinados à impressão de periódicos, quando os referidos bens forem adquiridos por pessoa jurídica industrial para incorporação ao seu ativo imobilizado|01012009||||
 901|Doações em espécie recebidas por instituições financeiras públicas controladas pela União e destinadas a ações de prevenção, monitoramento e combate ao desmatamento, inclusive programas de remuneração por serviços ambientais, e de promoção da conservação e do uso sustentável dos biomas brasileiros(Decreto nº 6.565, de 15 de setembro de 2008)|01012009||||
-999|Outras operações com suspensão|01012009||||
+999|Código genérico – Operações com Suspensão|01012009||||
 314|RECINE - Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica|26032012||||
 315|PROUCA - Programa Um Computador por Aluno. REICOMP - Regime Especial de Incentivo a Computadores para Uso Educacional|11062012|31122015|||
 316|REPNBL-Redes - Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações|04042012|31122016|||
@@ -45,3 +46,4 @@ versão=8 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI
 212|Receitas decorrentes da venda dos produtos classificados no código 0805.10.00 da TIPI, quando utilizados na industrialização dos produtos classificados no código 2009.1 da TIPI, e estes forem destinados à exportação|01012013||||
 317|RETID - Regime Especial Tributário para a Indústria de Defesa|30092011||||
 318|REIF - Regime Especial de Incentivo ao Desenvolvimento da Infraestrutura da Indústria de Fertilizantes|21092012||||
+902|Receita das vendas de mercadorias e a prestação de serviços ocorridas no mercado interno para as entidades promotoras dos eventos olímpicos, conforme relacionadas no § 2º do art. 4º, da Lei nº 12.780/2013, destinadas exclusivamente à organização ou à realização dos Eventos Olímpicos e do Rio 2016|01012013|31122017|||

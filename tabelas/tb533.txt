@@ -1,24 +1,24 @@
-versão=12 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, UNID, ALIQ_PIS, ALIQ_COFIN
+versão=15 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, UNID, ALIQ_PIS, ALIQ_COFIN
 101|Gasolinas, Exceto Gasolina de Aviação|01012009||27101159;27101259|||Metro Cúbico|46,5800|215,0200
 102|Óleo Diesel|01012009||27101921|||Metro Cúbico|26,3600|121,6400
 103|Gás Liqüefeito de Petróleo - GLP|01012009||27111910|||Tonelada|29,8500|137,8500
 104|Querosene de Aviação|01012009||27101911|||Metro Cúbico|12,6900|58,5100
-105|Correntes Destinadas à Formulação de Gasolinas|01012009||27101159;27101259|||Metro Cúbico|46,5800|215,0200
-106|Correntes Destinadas Exclusivamente à Formulação de Óleo Diesel|01012009||27101921|||Metro Cúbico|26,3600|121,6400
-107|Nafta Petroquímica Destinada à Formulação de Gasolina ou de Óleo Diesel|01012009||27101141;27101241|||Metro Cúbico|46,5800|215,0200
-108|Nafta Petroquímica Destinada à Formulação Exclusivamente de Óleo Diesel|01012009||27101141;27101241|||Metro Cúbico|26,3600|121,6400
-109|Biodiesel|01012009|27062012|38249029||01|Metro Cúbico|31,75|146,20
-109|Biodiesel|28062012||38249029|||Metro Cúbico|26,41|121,59
-109|Biodiesel|28062012||38249029||01|Metro Cúbico|26,41|121,59
-110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|01012009|27062012|38249029||01|Metro Cúbico|27,0300|124,4700
-110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|28062012||38249029|||Metro Cúbico|22,48|103,51
-110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|28062012||38249029||01|Metro Cúbico|22,48|103,51
-111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|01012009|27062012|38249029||01|Metro Cúbico|12,4900|57,5300
-111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|28062012||38249029|||Metro Cúbico|10,39|47,85
-111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|28062012||38249029||01|Metro Cúbico|10,39|47,85
-112|Álcool, Inclusive para Fins Carburantes - Venda por Produtor ou Importador|01012009||22071000;22072010|||Metro Cúbico|8,57|39,43
+105|Correntes Destinadas à Formulação de Gasolinas|01012009|||||Metro Cúbico|46,5800|215,0200
+106|Correntes Destinadas Exclusivamente à Formulação de Óleo Diesel|01012009|||||Metro Cúbico|26,3600|121,6400
+107|Nafta Petroquímica Destinada à Formulação de Gasolina ou de Óleo Diesel|01012009|||||Metro Cúbico|46,5800|215,0200
+108|Nafta Petroquímica Destinada à Formulação Exclusivamente de Óleo Diesel|01012009|||||Metro Cúbico|26,3600|121,6400
+109|Biodiesel|01012009|27062012|38249029;38260000||01|Metro Cúbico|31,75|146,20
+109|Biodiesel|28062012||38249029;38260000|||Metro Cúbico|26,41|121,59
+109|Biodiesel|28062012||38249029;38260000||01|Metro Cúbico|26,41|121,59
+110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|01012009|27062012|38249029;38260000||01|Metro Cúbico|27,0300|124,4700
+110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|28062012||38249029;38260000|||Metro Cúbico|22,48|103,51
+110|Biodiesel de Matérias-Primas Produzidas nas Regiões Norte, Nordeste e Semi-Árido|28062012||38249029;38260000||01|Metro Cúbico|22,48|103,51
+111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|01012009|27062012|38249029;38260000||01|Metro Cúbico|12,4900|57,5300
+111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|28062012||38249029;38260000|||Metro Cúbico|10,39|47,85
+111|Biodiesel de Matérias-Primas Adquiridas de Agricultor Familiar Enquadrado no PRONAF|28062012||38249029;38260000||01|Metro Cúbico|10,39|47,85
+112|Álcool, Inclusive para Fins Carburantes - Venda por Produtor ou Importador|01012009||22071000;22072010;220710;2207201|||Metro Cúbico|8,57|39,43
 112|Álcool, Inclusive para Fins Carburantes - Venda por Produtor ou Importador|01012009||22089000||01|Metro Cúbico|8,57|39,43
-113|Álcool, Inclusive para Fins Carburantes – Venda por Distribuidor ou Comerciante Não Varejista|01012009||22071000;22072010|||Metro Cúbico|21,43|98,57
+113|Álcool, Inclusive para Fins Carburantes – Venda por Distribuidor ou Comerciante Não Varejista|01012009||22071000;22072010;220710;2207201|||Metro Cúbico|21,43|98,57
 113|Álcool, Inclusive para Fins Carburantes – Venda por Distribuidor ou Comerciante Não Varejista|01012009||22089000||01|Metro Cúbico|21,43|98,57
 114|Crédito referente à aquisição de álcool anidro para adição à gasolina, no caso de venda realizada por produtor ou importador|01012011|||||Metro Cúbico|3,21|14,79
 115|Crédito referente à aquisição de álcool anidro para adição à gasolina, no caso de venda realizada por distribuidor|01012011|||||Metro Cúbico|16,07|73,93
@@ -498,36 +498,66 @@ versão=12 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, UNID, ALIQ_PIS
 990032|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 32|04042011|30092012||||Litro|0,1099|0,5232
 990033|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 33|04042011|30092012||||Litro|0,1135|0,5404
 990034|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 34|04042011|30092012||||Litro|0,1221|0,5814
-990001|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 01|01102012|||||Litro|0,0234|0,1116
-990002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 02|01102012|||||Litro|0,0256|0,1218
-990003|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 03|01102012|||||Litro|0,0268|0,1276
-990004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 04|01102012|||||Litro|0,0275|0,1311
-990005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 05|01102012|||||Litro|0,0288|0,1373
-990006|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 06|01102012|||||Litro|0,0301|0,1433
-990007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 07|01102012|||||Litro|0,0316|0,1506
-990008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 08|01102012|||||Litro|0,0340|0,1619
-990009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 09|01102012|||||Litro|0,0348|0,1657
-990010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 10|01102012|||||Litro|0,0376|0,1790
-990011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 11|01102012|||||Litro|0,0393|0,1870
-990012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 12|01102012|||||Litro|0,0405|0,1929
-990013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 13|01102012|||||Litro|0,0428|0,2037
-990014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 14|01102012|||||Litro|0,0453|0,2155
-990015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 15|01102012|||||Litro|0,0475|0,2261
-990016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 16|01102012|||||Litro|0,0494|0,2353
-990017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 17|01102012|||||Litro|0,0521|0,2482
-990018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 18|01102012|||||Litro|0,0558|0,2655
-990019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 19|01102012|||||Litro|0,0574|0,2733
-990020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 20|01102012|||||Litro|0,0615|0,2926
-990021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 21|01102012|||||Litro|0,0648|0,3082
-990022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 22|01102012|||||Litro|0,0659|0,3138
-990023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 23|01102012|||||Litro|0,0703|0,3346
-990024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 24|01102012|||||Litro|0,0741|0,3529
-990025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 25|01102012|||||Litro|0,0759|0,3614
-990026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 26|01102012|||||Litro|0,0795|0,3784
-990029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 29|01102012|||||Litro|0,0921|0,4384
-990030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 30|01102012|||||Litro|0,0983|0,4680
-990033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 33|01102012|||||Litro|0,1132|0,5388
-990036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 36|01102012|||||Litro|0,1345|0,6401
+990001|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 01|01102012|31032013||||Litro|0,0234|0,1116
+990002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 02|01102012|31032013||||Litro|0,0256|0,1218
+990003|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 03|01102012|31032013||||Litro|0,0268|0,1276
+990004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 04|01102012|31032013||||Litro|0,0275|0,1311
+990005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 05|01102012|31032013||||Litro|0,0288|0,1373
+990006|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 06|01102012|31032013||||Litro|0,0301|0,1433
+990007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 07|01102012|31032013||||Litro|0,0316|0,1506
+990008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 08|01102012|31032013||||Litro|0,0340|0,1619
+990009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 09|01102012|31032013||||Litro|0,0348|0,1657
+990010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 10|01102012|31032013||||Litro|0,0376|0,1790
+990011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 11|01102012|31032013||||Litro|0,0393|0,1870
+990012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 12|01102012|31032013||||Litro|0,0405|0,1929
+990013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 13|01102012|31032013||||Litro|0,0428|0,2037
+990014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 14|01102012|31032013||||Litro|0,0453|0,2155
+990015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 15|01102012|31032013||||Litro|0,0475|0,2261
+990016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 16|01102012|31032013||||Litro|0,0494|0,2353
+990017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 17|01102012|31032013||||Litro|0,0521|0,2482
+990018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 18|01102012|31032013||||Litro|0,0558|0,2655
+990019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 19|01102012|31032013||||Litro|0,0574|0,2733
+990020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 20|01102012|31032013||||Litro|0,0615|0,2926
+990021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 21|01102012|31032013||||Litro|0,0648|0,3082
+990022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 22|01102012|31032013||||Litro|0,0659|0,3138
+990023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 23|01102012|31032013||||Litro|0,0703|0,3346
+990024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 24|01102012|31032013||||Litro|0,0741|0,3529
+990025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 25|01102012|31032013||||Litro|0,0759|0,3614
+990026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 26|01102012|31032013||||Litro|0,0795|0,3784
+990029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 29|01102012|31032013||||Litro|0,0921|0,4384
+990030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 30|01102012|31032013||||Litro|0,0983|0,4680
+990033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 33|01102012|31032013||||Litro|0,1132|0,5388
+990036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 36|01102012|31032013||||Litro|0,1345|0,6401
+990001|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 01|01042013|||||Litro|0,0239|0,1138
+990002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 02|01042013|||||Litro|0,0261|0,1242
+990003|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 03|01042013|||||Litro|0,0273|0,1302
+990004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 04|01042013|||||Litro|0,0281|0,1337
+990005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 05|01042013|||||Litro|0,0294|0,1400
+990006|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 06|01042013|||||Litro|0,0307|0,1462
+990007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 07|01042013|||||Litro|0,0323|0,1536
+990008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 08|01042013|||||Litro|0,0347|0,1651
+990009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 09|01042013|||||Litro|0,0355|0,1691
+990010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 10|01042013|||||Litro|0,0383|0,1825
+990011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 11|01042013|||||Litro|0,0401|0,1907
+990012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 12|01042013|||||Litro|0,0413|0,1968
+990013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 13|01042013|||||Litro|0,0437|0,2078
+990014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 14|01042013|||||Litro|0,0462|0,2198
+990015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 15|01042013|||||Litro|0,0485|0,2306
+990016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 16|01042013|||||Litro|0,0504|0,2400
+990017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 17|01042013|||||Litro|0,0532|0,2531
+990018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 18|01042013|||||Litro|0,0569|0,2709
+990019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 19|01042013|||||Litro|0,0586|0,2788
+990020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 20|01042013|||||Litro|0,0627|0,2985
+990021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 21|01042013|||||Litro|0,0661|0,3144
+990022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 22|01042013|||||Litro|0,0672|0,3201
+990023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 23|01042013|||||Litro|0,0717|0,3413
+990024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 24|01042013|||||Litro|0,0756|0,3600
+990025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 25|01042013|||||Litro|0,0774|0,3686
+990026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 26|01042013|||||Litro|0,0811|0,3860
+990029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 29|01042013|||||Litro|0,0940|0,4472
+990030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 30|01042013|||||Litro|0,1003|0,4774
+990033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 33|01042013|||||Litro|0,1154|0,5495
+990036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Retornável - Grupo 36|01042013|||||Litro|0,1372|0,6529
 900|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata|01012011|||||Litro||
 900001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 1|01012011|03042011||||Litro|0,0254|0,1207
 900002|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 2|01012011|03042011||||Litro|0,0272|0,1292
@@ -581,8 +611,62 @@ versão=12 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, UNID, ALIQ_PIS
 900042|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 42|04042011|30092012||||Litro|0,1930|0,9187
 900044|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 44|04042011|30092012||||Litro|0,2082|0,9908
 900045|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 45|04042011|30092012||||Litro|0,2215|1,0543
-900001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 1|01102012|||||Litro|0,0250|0,1190
-900045|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 45|01102012|||||Litro|0,2174|
+900001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 1|01102012|21022013||||Litro|0,0250|0,1190
+900045|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 45|01102012|21022013||||Litro|0,2174|
+900001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 1|22022013|31032013||||Litro|0,0250|0,1190
+900002|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 2|22022013|31032013||||Litro|0,0266|0,1266
+900003|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 3|22022013|31032013||||Litro|0,0276|0,1314
+900004|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 4|22022013|31032013||||Litro|0,0298|0,1420
+900006|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 6|22022013|31032013||||Litro|0,0327|0,1555
+900007|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 7|22022013|31032013||||Litro|0,0338|0,1610
+900008|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 8|22022013|31032013||||Litro|0,0362|0,1723
+900009|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 9|22022013|31032013||||Litro|0,0382|0,1818
+900010|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 10|22022013|31032013||||Litro|0,0406|0,1934
+900011|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 11|22022013|31032013||||Litro|0,0408|0,1942
+900012|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 12|22022013|31032013||||Litro|0,0446|0,2120
+900013|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 13|22022013|31032013||||Litro|0,0460|0,2188
+900014|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 14|22022013|31032013||||Litro|0,0483|0,2297
+900015|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 15|22022013|31032013||||Litro|0,0497|0,2365
+900016|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 16|22022013|31032013||||Litro|0,0533|0,2536
+900017|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 17|22022013|31032013||||Litro|0,0552|0,2629
+900018|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 18|22022013|31032013||||Litro|0,0590|0,2810
+900019|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 19|22022013|31032013||||Litro|0,0620|0,2951
+900020|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 20|22022013|31032013||||Litro|0,0658|0,3131
+900021|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 22|22022013|31032013||||Litro|0,0668|0,3182
+900023|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 23|22022013|31032013||||Litro|0,0760|0,3616
+900025|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 23|22022013|31032013||||Litro|0,0845|0,4020
+900026|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 27|22022013|31032013||||Litro|0,0855|0,4069
+900027|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 28|22022013|31032013||||Litro|0,0912|0,4342
+900043|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 42|22022013|31032013||||Litro|0,1994|0,9492
+900044|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 44|22022013|31032013||||Litro|0,2099|0,9990
+900045|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 45|22022013|31032013||||Litro|0,2174|1,0348
+900001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 1|01042013|||||Litro|0,0255|0,1214
+900002|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 2|01042013|||||Litro|0,0271|0,1292
+900003|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 3|01042013|||||Litro|0,0282|0,1340
+900004|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 4|01042013|||||Litro|0,0304|0,1448
+900006|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 6|01042013|||||Litro|0,0333|0,1586
+900007|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 7|01042013|||||Litro|0,0345|0,1643
+900008|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 8|01042013|||||Litro|0,0369|0,1757
+900009|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 9|01042013|||||Litro|0,0389|0,1854
+900010|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 10|01042013|||||Litro|0,0415|0,1973
+900011|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 11|01042013|||||Litro|0,0416|0,1981
+900012|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 12|01042013|||||Litro|0,0454|0,2163
+900013|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 13|01042013|||||Litro|0,0469|0,2231
+900014|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 14|01042013|||||Litro|0,0492|0,2343
+900015|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 15|01042013|||||Litro|0,0507|0,2412
+900016|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 16|01042013|||||Litro|0,0543|0,2587
+900017|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 17|01042013|||||Litro|0,0563|0,2681
+900018|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 18|01042013|||||Litro|0,0602|0,2866
+900019|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 19|01042013|||||Litro|0,0632|0,3010
+900020|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 20|01042013|||||Litro|0,0671|0,3194
+900021|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 21|01042013|||||Litro|0,0682|0,3245
+900023|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 23|01042013|||||Litro|0,0775|0,3688
+900025|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 25|01042013|||||Litro|0,0862|0,4101
+900026|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 26|01042013|||||Litro|0,0872|0,4151
+900027|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 27|01042013|||||Litro|0,0930|0,4428
+900043|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 43|01042013|||||Litro|0,2034|0,9682
+900044|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 44|01042013|||||Litro|0,2141|1,0190
+900045|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Lata - Grupo 45|01042013|||||Litro|0,2217|1,0555
 910|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas|01012011|||||Litro||
 910001|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 1|01012011|03042011||||Litro|0,0219|0,1041
 910004|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 4|01012011|03042011||||Litro|0,0258|0,1226
@@ -683,54 +767,103 @@ versão=12 CODIGO, DESC_PROD, DT_INI, DT_FIM, NCM, NCM_EX, EX_IPI, UNID, ALIQ_PIS
 910064|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 64|04042011|30092012||||Litro|0,4918|2,3409
 910074|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 74|04042011|30092012||||Litro|0,7860|3,7411
 910083|REFRI – Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 83|04042011|30092012||||Litro|1,2257|5,8344
-910002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 02|01102012|||||Litro|0,0235|0,1116
-910004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 04|01102012|||||Litro|0,0262|0,1247
-910005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 05|01102012|||||Litro|0,0278|0,1322
-910007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 07|01102012|||||Litro|0,0297|0,1414
-910008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 08|01102012|||||Litro|0,0315|0,1502
-910009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 09|01102012|||||Litro|0,0326|0,1551
-910010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 10|01102012|||||Litro|0,0345|0,1643
-910011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 11|01102012|||||Litro|0,0374|0,1778
-910012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 12|01102012|||||Litro|0,0387|0,1844
-910013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 13|01102012|||||Litro|0,0405|0,1929
-910014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 14|01102012|||||Litro|0,0420|0,2000
-910015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 15|01102012|||||Litro|0,0446|0,2124
-910016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 16|01102012|||||Litro|0,0465|0,2215
-910017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 17|01102012|||||Litro|0,0494|0,2351
-910018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 18|01102012|||||Litro|0,0518|0,2465
-910019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 19|01102012|||||Litro|0,0541|0,2577
-910020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 20|01102012|||||Litro|0,0564|0,2685
-910021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 21|01102012|||||Litro|0,0593|0,2822
-910022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 22|01102012|||||Litro|0,0616|0,2933
-910023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 23|01102012|||||Litro|0,0671|0,3195
-910024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 24|01102012|||||Litro|0,0680|0,3235
-910025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 25|01102012|||||Litro|0,0728|0,3463
-910026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 26|01102012|||||Litro|0,0753|0,3582
-910027|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 27|01102012|||||Litro|0,0797|0,3794
-910028|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 28|01102012|||||Litro|0,0850|0,4047
-910029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 29|01102012|||||Litro|0,0882|0,4200
-910030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 30|01102012|||||Litro|0,0919|0,4376
-910031|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 31|01102012|||||Litro|0,0989|0,4709
-910032|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 32|01102012|||||Litro|0,1026|0,4886
-910033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 33|01102012|||||Litro|0,1072|0,5104
-910034|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 34|01102012|||||Litro|0,1099|0,5230
-910035|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 35|01102012|||||Litro|0,1200|0,5711
-910036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 36|01102012|||||Litro|0,1251|0,5957
-910037|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 37|01102012|||||Litro|0,1303|0,6202
-910038|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 38|01102012|||||Litro|0,1369|0,6516
-910039|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 39|01102012|||||Litro|0,1437|0,6839
-910040|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 40|01102012|||||Litro|0,1520|0,7237
-910041|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 41|01102012|||||Litro|0,1598|0,7607
-910042|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 42|01102012|||||Litro|0,1646|0,7833
-910043|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 43|01102012|||||Litro|0,1743|0,8298
-910044|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 44|01102012|||||Litro|0,1870|0,8901
-910045|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 45|01102012|||||Litro|0,1925|0,9163
-910046|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 46|01102012|||||Litro|0,2018|0,9605
-910047|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 47|01102012|||||Litro|0,2077|0,9886
-910048|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 48|01102012|||||Litro|0,2229|1,0610
-910049|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 49|01102012|||||Litro|0,2334|1,1107
-910050|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 50|01102012|||||Litro|0,2446|1,1642
-910065|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 65|01102012|||||Litro|0,5035|2,3968
-910076|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 76|01102012|||||Litro|0,8630|4,1078
+910002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 02|01102012|31032013||||Litro|0,0235|0,1116
+910004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 04|01102012|31032013||||Litro|0,0262|0,1247
+910005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 05|01102012|31032013||||Litro|0,0278|0,1322
+910007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 07|01102012|31032013||||Litro|0,0297|0,1414
+910008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 08|01102012|31032013||||Litro|0,0315|0,1502
+910009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 09|01102012|31032013||||Litro|0,0326|0,1551
+910010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 10|01102012|31032013||||Litro|0,0345|0,1643
+910011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 11|01102012|31032013||||Litro|0,0374|0,1778
+910012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 12|01102012|31032013||||Litro|0,0387|0,1844
+910013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 13|01102012|31032013||||Litro|0,0405|0,1929
+910014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 14|01102012|31032013||||Litro|0,0420|0,2000
+910015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 15|01102012|31032013||||Litro|0,0446|0,2124
+910016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 16|01102012|31032013||||Litro|0,0465|0,2215
+910017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 17|01102012|31032013||||Litro|0,0494|0,2351
+910018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 18|01102012|31032013||||Litro|0,0518|0,2465
+910019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 19|01102012|31032013||||Litro|0,0541|0,2577
+910020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 20|01102012|31032013||||Litro|0,0564|0,2685
+910021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 21|01102012|31032013||||Litro|0,0593|0,2822
+910022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 22|01102012|31032013||||Litro|0,0616|0,2933
+910023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 23|01102012|31032013||||Litro|0,0671|0,3195
+910024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 24|01102012|31032013||||Litro|0,0680|0,3235
+910025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 25|01102012|31032013||||Litro|0,0728|0,3463
+910026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 26|01102012|31032013||||Litro|0,0753|0,3582
+910027|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 27|01102012|31032013||||Litro|0,0797|0,3794
+910028|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 28|01102012|31032013||||Litro|0,0850|0,4047
+910029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 29|01102012|31032013||||Litro|0,0882|0,4200
+910030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 30|01102012|31032013||||Litro|0,0919|0,4376
+910031|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 31|01102012|31032013||||Litro|0,0989|0,4709
+910032|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 32|01102012|31032013||||Litro|0,1026|0,4886
+910033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 33|01102012|31032013||||Litro|0,1072|0,5104
+910034|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 34|01102012|31032013||||Litro|0,1099|0,5230
+910035|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 35|01102012|31032013||||Litro|0,1200|0,5711
+910036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 36|01102012|31032013||||Litro|0,1251|0,5957
+910037|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 37|01102012|31032013||||Litro|0,1303|0,6202
+910038|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 38|01102012|31032013||||Litro|0,1369|0,6516
+910039|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 39|01102012|31032013||||Litro|0,1437|0,6839
+910040|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 40|01102012|31032013||||Litro|0,1520|0,7237
+910041|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 41|01102012|31032013||||Litro|0,1598|0,7607
+910042|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 42|01102012|31032013||||Litro|0,1646|0,7833
+910043|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 43|01102012|31032013||||Litro|0,1743|0,8298
+910044|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 44|01102012|31032013||||Litro|0,1870|0,8901
+910045|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 45|01102012|31032013||||Litro|0,1925|0,9163
+910046|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 46|01102012|31032013||||Litro|0,2018|0,9605
+910047|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 47|01102012|31032013||||Litro|0,2077|0,9886
+910048|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 48|01102012|31032013||||Litro|0,2229|1,0610
+910049|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 49|01102012|31032013||||Litro|0,2334|1,1107
+910050|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 50|01102012|31032013||||Litro|0,2446|1,1642
+910065|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 65|01102012|31032013||||Litro|0,5035|2,3968
+910076|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 76|01102012|31032013||||Litro|0,8630|4,1078
+910002|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 2|01042013|||||Litro|0,0239|0,1139
+910004|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 4|01042013|||||Litro|0,0267|0,1272
+910005|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 5|01042013|||||Litro|0,0283|0,1349
+910007|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 7|01042013|||||Litro|0,0303|0,1443
+910008|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 8|01042013|||||Litro|0,0322|0,1532
+910009|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 9|01042013|||||Litro|0,0332|0,1582
+910010|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 10|01042013|||||Litro|0,0352|0,1675
+910011|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 11|01042013|||||Litro|0,0381|0,1814
+910012|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 12|01042013|||||Litro|0,0395|0,1881
+910013|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 13|01042013|||||Litro|0,0413|0,1968
+910014|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 14|01042013|||||Litro|0,0429|0,2040
+910015|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 15|01042013|||||Litro|0,0455|0,2166
+910016|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 16|01042013|||||Litro|0,0475|0,2259
+910017|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 17|01042013|||||Litro|0,0504|0,2398
+910018|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 18|01042013|||||Litro|0,0528|0,2514
+910019|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 19|01042013|||||Litro|0,0552|0,2628
+910020|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 20|01042013|||||Litro|0,0575|0,2739
+910021|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 21|01042013|||||Litro|0,0605|0,2878
+910022|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 22|01042013|||||Litro|0,0628|0,2991
+910023|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 23|01042013|||||Litro|0,0685|0,3259
+910024|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 24|01042013|||||Litro|0,0693|0,3300
+910025|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 25|01042013|||||Litro|0,0742|0,3533
+910026|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 26|01042013|||||Litro|0,0768|0,3654
+910027|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 27|01042013|||||Litro|0,0813|0,3870
+910028|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 28|01042013|||||Litro|0,0867|0,4128
+910029|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 29|01042013|||||Litro|0,0900|0,4284
+910030|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 30|01042013|||||Litro|0,0938|0,4463
+910031|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 31|01042013|||||Litro|0,1009|0,4804
+910032|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 32|01042013|||||Litro|0,1047|0,4983
+910033|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 33|01042013|||||Litro|0,1094|0,5206
+910034|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 34|01042013|||||Litro|0,1121|0,5334
+910035|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 35|01042013|||||Litro|0,1224|0,5826
+910036|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 36|01042013|||||Litro|0,1276|0,6076
+910037|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 37|01042013|||||Litro|0,1329|0,6326
+910038|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 38|01042013|||||Litro|0,1396|0,6647
+910039|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 39|01042013|||||Litro|0,1465|0,6975
+910040|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 40|01042013|||||Litro|0,1551|0,7381
+910041|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 41|01042013|||||Litro|0,1630|0,7760
+910042|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 42|01042013|||||Litro|0,1679|0,7990
+910043|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 43|01042013|||||Litro|0,1778|0,8464
+910044|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 44|01042013|||||Litro|0,1907|0,9079
+910045|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 45|01042013|||||Litro|0,1964|0,9347
+910046|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 46|01042013|||||Litro|0,2058|0,9797
+910047|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 47|01042013|||||Litro|0,2118|1,0084
+910048|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 48|01042013|||||Litro|0,2274|1,0822
+910049|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 49|01042013|||||Litro|0,2380|1,1330
+910050|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 50|01042013|||||Litro|0,2495|1,1875
+910065|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 65|01042013|||||Litro|0,5136|2,4448
+910076|REFRI - Cervejas de Malte e Cervejas Sem Álcool, em Vidro Descartável e Outras Embalagens Não Especificadas - Grupo 76|01042013|||||Litro|0,8802|4,1899
 920|Chope e Cervejas de Malte Quando Vendidas a Granel|01012011|30092012|22030000||01|Litro|0,0681|0,3243
 920|Chope e Cervejas de Malte Quando Vendidas a Granel|01102012||22030000||01|Litro|0,0681|0,3243
