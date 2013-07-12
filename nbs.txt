@@ -1,0 +1,885 @@
+"NBS"|"DESCRIÇÃO"|"AL_IBPT_NACIONAL"|"AL_IBPT_INTERNACIONAL"
+"101011000"|"Serviços de construção de edificações residenciais de um e dois pavimentos"|17.39|17.99
+"101012000"|"Serviços de construção de edificações residenciais com mais de dois pavimentos"|17.39|17.99
+"101021000"|"Serviços de construção de edificações industriais"|17.39|17.99
+"101022000"|"Serviços de construção de edificações comerciais"|17.39|17.99
+"101029000"|"Outros serviços de construção de edificações não residenciais"|17.92|18.52
+"101031000"|"Serviços de construção de autoestradas (exceto autoestradas elevadas), ruas e estradas."|17.37|17.97
+"101032000"|"Serviços de construção de estradas férreas"|17.37|17.97
+"101033000"|"Serviços de construção de pistas de pouso e decolagem em aeroportos"|17.37|17.97
+"101034000"|"Serviços de construção de infraestrutura aeroportuária"|17.37|17.97
+"101040000"|"Serviços de construção de pontes, autoestradas elevadas e túneis"|17.39|17.99
+"101051100"|"Serviços de construção de guias-corrente, espigões, quebra-mares, canais de acesso, bacias de evolução, balizamento e sinalização, derrocagens e dragagens."|17.37|17.97
+"101051900"|"Outros serviços de construção de infraestrutura de proteção e acesso aquaviário"|17.37|17.97
+"101052100"|"Serviços de construção de ancoradouros, docas, cais, pontes, dolfins e píeres"|17.37|17.97
+"101052900"|"Outros serviços de construção de infraestrutura de acostagem aquaviária"|17.37|17.97
+"101053100"|"Serviços de construção de armazéns, inclusive os especiais, silos, pátios e vias de circulação"|17.90|18.50
+"101053900"|"Outros serviços de construção de infraestrutura terrestre nos portos"|17.90|18.50
+"101061000"|"Serviços de construção de barragens e adutoras"|17.90|18.50
+"101062100"|"Serviços de construção de sistemas de irrigação"|17.39|17.99
+"101062200"|"Serviços de construção de sistemas de esgotos"|17.90|18.50
+"101062300"|"Serviços de construção de sistemas de unidades para tratamento e purificação de água"|17.90|18.50
+"101069000"|"Outros serviços de construção de sistemas hídricos"|17.90|18.50
+"101071100"|"Serviços de construção de dutos de longo curso para o transporte de petróleo, seus derivados, e gás"|17.39|17.99
+"101071200"|"Serviços de construção de dutos de longo curso para o transporte e escoamento de águas e esgotos"|17.39|17.99
+"101071900"|"Serviços de construção de outros dutos de longo curso"|17.39|17.99
+"101072100"|"Serviços de construção de linhas de comunicação de longo curso"|17.39|17.99
+"101072210"|"Serviços de construção de linhas de transmissão de alta tensão em corrente contínua"|17.39|17.99
+"101072220"|"Serviços de construção de linhas de transmissão de alta tensão em corrente alternada"|17.39|17.99
+"101081000"|"Serviços de construção de dutos locais"|17.39|17.99
+"101082110"|"Serviços de construção de linhas locais de transmissão de baixa e média tensão"|17.39|17.99
+"101082120"|"Serviços de construção de linhas locais de comunicação"|17.39|17.99
+"101082900"|"Outros serviços de construção relacionados"|17.39|17.99
+"101091000"|"Serviços de construção de usinas de geração de energia"|17.39|17.99
+"101092000"|"Serviços de construção de subestações de força"|17.39|17.99
+"101101000"|"Serviços de construção de minas"|17.90|18.50
+"101102000"|"Serviços de construção de unidades industriais relacionadas à mineração"|17.90|18.50
+"101110000"|"Serviços de construção de instalações para recreação e atividades desportivas ao ar livre"|17.90|18.50
+"101120000"|"Outros serviços de construção civil não classificados em outra posição"|17.90|18.50
+"101130000"|"Serviços de demolição"|17.90|18.50
+"101140000"|"Serviços de preparação de terrenos e construção de canteiros de obras"|17.95|18.55
+"101150000"|"Serviços de escavação e remoção de terra"|17.90|18.50
+"101161000"|"Serviços de perfuração de poços de água"|17.90|18.50
+"101162000"|"Serviços de instalação de sistemas sépticos"|17.90|18.50
+"101170000"|"Serviços de montagem e edificação de construções pré-fabricadas"|17.90|18.50
+"101181000"|"Serviços de estaqueamento"|0|0
+"101182000"|"Serviços de fundação"|0|0
+"101191000"|"Serviços de construção de estruturas de prédios"|17.90|18.50
+"101192000"|"Serviços de construção de estruturas de telhados e coberturas"|17.90|18.50
+"101200000"|"Serviços de construção de telhados e coberturas e serviços de impermeabilização"|18.24|18.84
+"101210000"|"Serviços de concretagem"|18.32|18.92
+"101220000"|"Serviços de estruturas de aço estrutural"|17.90|18.50
+"101230000"|"Serviços de alvenaria"|17.39|17.99
+"101240000"|"Serviços de andaimes"|17.39|17.99
+"101250000"|"Outros serviços especializados de construção"|17.39|17.99
+"101261000"|"Serviços de instalação de fiação elétrica e componentes"|17.90|18.50
+"101262000"|"Serviços de instalação de alarmes contra incêndio"|17.90|18.50
+"101263000"|"Serviços de instalação de sistemas de alarmes antifurto"|17.90|18.50
+"101264000"|"Serviços de instalação de antenas residenciais"|17.90|18.50
+"101269000"|"Outros serviços de instalação elétrica"|17.90|18.50
+"101271000"|"Serviços de tubulação para fornecimento de água"|17.90|18.50
+"101272000"|"Serviços de tubulação de escoamento de água"|17.90|18.50
+"101281000"|"Serviços de instalação de aquecimento"|17.90|18.50
+"101282000"|"Serviços de instalação de ventilação e ar condicionado"|17.90|18.50
+"101290000"|"Serviços de instalação de gás"|17.90|18.50
+"101300000"|"Serviços de isolamento"|17.90|18.50
+"101311000"|"Serviços de instalação de elevadores, esteiras e escadas rolantes"|17.90|18.50
+"101319000"|"Outros serviços de instalação"|17.90|18.50
+"101320000"|"Serviços de vidraçaria"|18.39|18.99
+"101330000"|"Serviços de gesso"|18.39|18.99
+"101340000"|"Serviços de pintura"|18.39|18.99
+"101350000"|"Serviços de assentamento de revestimento cerâmico em paredes e pisos"|18.34|18.94
+"101360000"|"Outros serviços de cobertura de pisos e paredes e papel de parede"|18.39|18.99
+"101370000"|"Serviços de carpintaria"|18.20|18.80
+"101380000"|"Serviços de instalação de cercas e grades"|18.39|18.99
+"101390000"|"Outros serviços de acabamento das construções"|18.39|18.99
+"102010000"|"Serviços de agentes de distribuição de mercadorias"|17.78|18.38
+"102020000"|"Comércio atacadista"|17.72|18.32
+"102030000"|"Comércio varejista"|17.72|18.32
+"102041000"|"Serviços de despachante aduaneiro na importação"|18.08|18.68
+"102042000"|"Serviços de despachante aduaneiro na exportação"|17.72|18.32
+"102050000"|"Serviços de agentes na comercialização de energia elétrica"|17.72|18.32
+"103011000"|"Fornecimento de refeições acompanhado de serviços de restaurante"|18.45|19.05
+"103012100"|"Fornecimento de refeições pelo sistema de auto-serviço (self-service)"|18.45|19.05
+"103012200"|"Fornecimento de comidas do tipo “comidas rápidas” (fast-food)"|18.45|19.05
+"103012900"|"Outros fornecimentos de refeições sem os serviços de restaurante"|18.45|19.05
+"103013100"|"Fornecimento de alimentação sob contrato"|18.29|18.89
+"103013200"|"Fornecimento de refeições em transportes (comissaria ou catering)"|18.45|19.05
+"103013900"|"Outros fornecimentos de alimentação"|18.45|19.05
+"103020000"|"Fornecimento de bebidas em bares, cervejarias e outros"|18.45|19.05
+"103031100"|"Serviços de quarto ou de unidades de hospedagem para visitantes, com serviços diários de faxina"|18.45|19.05
+"103031200"|"Serviços de quarto ou de unidades de hospedagem para visitantes, sem serviços diários de faxina"|18.45|19.05
+"103031300"|"Serviços de quarto ou de unidades de hospedagem para visitantes, em propriedades partilhadas"|18.45|19.05
+"103031400"|"Serviços de quarto ou de unidades de hospedagem para visitantes, em quartos de múltipla ocupação"|18.45|19.05
+"103032000"|"Serviços de acampamentos turísticos (camping)"|18.29|18.89
+"103039000"|"Outros serviços de hospedagem para visitantes"|18.29|18.89
+"103041000"|"Serviços de quarto ou de unidades de hospedagem para estudantes em residências estudantis"|18.45|19.05
+"103042000"|"Serviços de quarto ou de unidades de hospedagem para trabalhadores em hotéis ou campos, por pequenos períodos"|18.45|19.05
+"103049000"|"Outros serviços de quarto ou de unidades de hospedagem"|18.45|19.05
+"104011110"|"Serviços prestados única e exclusivamente por meio de ônibus"|16.06|16.66
+"104011190"|"Serviços prestados por meio de outros veículos rodoviários"|16.06|16.66
+"104011200"|"Serviços de transporte rodoviário de passageiros nas áreas metropolitanas"|16.06|16.66
+"104011300"|"Serviços de transporte ferroviário      urbano,  inclusive  nas  áreas metropolitanas, de passageiros"|16.06|16.66
+"104011400"|"Serviços de transporte metroviário (metrô) de passageiros"|16.06|16.66
+"104011500"|"Serviços de transporte integrado       urbano,  inclusive  nas  áreas metropolitanas, de passageiros"|16.06|16.66
+"104011600"|"Serviços de taxi"|16.06|16.66
+"104011700"|"Serviço de aluguel de carros com motorista"|16.06|16.66
+"104011910"|"Serviços de transporte escolar"|16.06|16.66
+"104011990"|"Outros serviços terrestres de transporte de passageiros"|16.06|16.66
+"104012100"|"Serviços de transporte por navegação interior de passageiros por embarcações para travessia"|16.06|16.66
+"104012200"|"Serviços de transporte por navegação interior de passageiros por embarcações para cruzeiros"|16.06|16.66
+"104012900"|"Outros serviços de transporte por navegação interior de passageiros"|16.06|16.66
+"104019000"|"Outros serviços de transporte de passageiros em áreas urbanas, inclusive metropolitanas"|16.06|16.66
+"104021100"|"Serviços de transporte rodoviário para passeios turísticos (sightseeing)"|16.06|16.66
+"104021200"|"Serviços de transporte ferroviário para passeios turísticos (sightseeing)"|16.06|16.66
+"104021300"|"Serviços de transporte aquaviário para passeios turísticos (sightseeing)"|16.06|16.66
+"104021400"|"Serviços de transporte aéreo para passeios turísticos (sightseeing)"|16.06|16.66
+"104021900"|"Outros serviços transporte para passeios turísticos (sightseeing)"|16.06|16.66
+"104022100"|"Serviços de fretamento contínuo"|16.06|16.66
+"104022200"|"Serviços de fretamento eventual ou turístico"|16.06|16.66
+"104022900"|"Outros serviços de fretamento, exceto aéreo"|16.06|16.66
+"104031110"|"Serviços prestados única e exclusivamente por meio de ônibus"|16.06|16.66
+"104031190"|"Serviços prestados por meio de outros veículos rodoviários"|16.06|16.66
+"104031200"|"Serviços de transporte ferroviário interestadual, inclusive interestadual semiurbano, de passageiros"|16.06|16.66
+"104031900"|"Outros serviços terrestres de transporte interestadual, inclusive interestadual semiurbano, de passageiros não classificados em outra posição"|16.06|16.66
+"104032100"|"Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para travessia"|16.06|16.66
+"104032200"|"Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para cruzeiros"|16.06|16.66
+"104032300"|"Serviços de transporte, nacional ou internacional, de passageiros por embarcações para cruzeiros"|16.06|16.66
+"104032900"|"Outros serviços de transporte interestadual, inclusive interestadual semiurbano, aquaviário de passageiros"|16.06|16.66
+"104041100"|"Serviços de transporte aéreo doméstico de passageiros"|16.06|16.66
+"104041200"|"Serviços de transporte aéreo internacional de passageiros"|16.06|16.66
+"104042000"|"Serviços de transporte aéreo por fretamento"|16.06|16.66
+"104049100"|"Serviços de táxi aéreo"|16.06|16.66
+"104049900"|"Outros serviços de transporte aéreo de passageiros"|16.06|16.66
+"105011110"|"Serviços de transporte rodoviário de cargas sólidas a granel"|16.06|16.66
+"105011120"|"Serviços de transporte rodoviário de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105011130"|"Serviços de transporte rodoviário de cargas gasosas a granel"|16.06|16.66
+"105011200"|"Serviços de transporte rodoviário de cargas vivas"|16.06|16.66
+"105011310"|"Serviços de transporte rodoviário de carga solta, não unitizada."|16.06|16.66
+"105011320"|"Serviços de transporte rodoviário de carga unitizada, exceto de contêineres"|16.06|16.66
+"105011410"|"Serviços de transporte rodoviário de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105011490"|"Serviços de transporte rodoviário de outros tipos de contêineres"|16.06|16.66
+"105011500"|"Serviços de transporte rodoviário de mudanças domésticas, de mobília de escritório e de outros objetos"|16.06|16.66
+"105011600"|"Serviços de transporte rodoviário de cargas especiais e de grande porte"|16.06|16.66
+"105011700"|"Serviços de transporte rodoviário de veículos"|16.06|16.66
+"105011810"|"Serviços de transporte rodoviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105011820"|"Serviços de transporte rodoviário de produtos químicos perigosos"|16.06|16.66
+"105011890"|"Serviços de transporte rodoviário de outros produtos perigosos"|16.06|16.66
+"105011900"|"Outros tipos de carga dos serviços de transporte rodoviário"|16.06|16.66
+"105012110"|"Serviços de transporte ferroviário de cargas sólidas a granel"|16.06|16.66
+"105012120"|"Serviços de transporte ferroviário de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105012130"|"Serviços de transporte ferroviário de cargas gasosas a granel"|16.06|16.66
+"105012200"|"Serviços de transporte ferroviário de cargas vivas"|16.06|16.66
+"105012310"|"Serviços de transporte ferroviário de carga solta, não unitizada"|16.06|16.66
+"105012320"|"Serviços de transporte ferroviário de carga unitizada, exceto de contêineres"|16.06|16.66
+"105012330"|"Serviços de transporte ferroviário de bens e valores"|16.06|16.66
+"105012410"|"Serviços de transporte ferroviário de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105012490"|"Serviços de transporte ferroviário de outros tipos de contêineres"|16.06|16.66
+"105012510"|"Serviços de transporte ferroviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105012520"|"Serviços de transporte ferroviário de produtos químicos perigosos"|16.06|16.66
+"105012530"|"Serviços de transporte ferroviário de armamentos militares e munições"|16.06|16.66
+"105012540"|"Serviços de transporte ferroviários de fundidos em estado líquido"|16.06|16.66
+"105012550"|"Serviços de transporte ferroviários de material radioativo"|16.06|16.66
+"105012590"|"Serviços de transporte ferroviário de outros produtos perigosos"|16.06|16.66
+"105012900"|"Outros tipos de carga do serviços de transporte ferroviário"|16.06|16.66
+"105013100"|"Serviços de transporte de petróleo, gás natural e combustível"|16.06|16.66
+"105013200"|"Serviços de transporte de minérios"|16.06|16.66
+"105013900"|"Serviços de transporte de outras mercadorias"|16.06|16.66
+"105021110"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas sólidas, a granel"|16.06|16.66
+"105021120"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105021130"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas gasosas a granel"|16.06|16.66
+"105021200"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas vivas"|16.06|16.66
+"105021310"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de carga solta, não unitizada"|16.06|16.66
+"105021320"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de carga unitizada, exceto de contêineres"|16.06|16.66
+"105021410"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105021490"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros tipos de contêineres"|16.06|16.66
+"105021500"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de mudanças domésticas, de mobília de escritório e de outros objetos"|16.06|16.66
+"105021600"|"Serviços de transporte aquaviário de navegação de cabotagem e de"|16.06|16.66
+"105021700"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de veículos"|16.06|16.66
+"105021810"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105021820"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de produtos químicos perigosos"|16.06|16.66
+"105021890"|"Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros produtos perigosos"|16.06|16.66
+"105021900"|"Outros tipos de carga dos serviços de transporte aquaviário de navegação de cabotagem e de longo curso"|16.06|16.66
+"105022110"|"Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel"|16.06|16.66
+"105022120"|"Serviços de transporte aquaviário por navegação interior de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105022130"|"Serviços de transporte aquaviário por navegação interior de cargas gasosas a granel"|16.06|16.66
+"105022200"|"Serviços de transporte aquaviário por navegação interior de cargas vivas"|16.06|16.66
+"105022310"|"Serviços de transporte aquaviário por navegação interior de carga solta, não unitizada"|16.06|16.66
+"105022320"|"Serviços de transporte aquaviário por navegação interior de carga unitizada, exceto de contêineres"|16.06|16.66
+"105022410"|"Serviços de transporte aquaviário por navegação interior de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105022490"|"Serviços de transporte aquaviário por navegação interior de outros tipos de contêineres"|16.06|16.66
+"105022500"|"Serviços de transporte aquaviário por navegação interior de mudanças domésticas, de mobília de escritório e de outros objetos"|16.06|16.66
+"105022600"|"Serviços de transporte aquaviário por navegação interior      de cargas especiais e de grande porte"|16.06|16.66
+"105022700"|"Serviços de transporte aquaviário por navegação interior de veículos"|16.06|16.66
+"105022810"|"Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105022820"|"Serviços de transporte aquaviário por navegação interior de produtos químicos perigosos"|16.06|16.66
+"105022890"|"Serviços de transporte aquaviário por navegação interior de outros produtos perigosos"|16.06|16.66
+"105022900"|"Outros tipos de carga dos serviços de transporte aquaviário por navegação interior"|16.06|16.66
+"105023100"|"Serviços de navegação de apoio portuário"|17.60|18.20
+"105023200"|"Serviços de navegação de apoio marítimo"|17.60|18.20
+"105031000"|"Serviços de transporte aéreo de cargas postais, remessas expressas e cargas congêneres"|0|0
+"105032010"|"Serviços de transporte aéreo de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105032090"|"Serviços de transporte aéreo de outros tipos de contêineres"|16.06|16.66
+"105033010"|"Serviços de transporte aéreo de produtos perigosos"|16.06|16.66
+"105033020"|"Serviços de transporte aéreo de animais vivos"|16.06|16.66
+"105033030"|"Serviços de transporte aéreo de máquinas e veículos"|16.06|16.66
+"105033040"|"Serviços de transporte aéreo de perecíveis"|16.06|16.66
+"105033050"|"Serviços de transporte aéreo de cargas frágeis"|16.06|16.66
+"105033060"|"Serviços de transporte aéreo de cargas controladas"|16.06|16.66
+"105033070"|"Serviços de transporte aéreo de valores"|16.06|16.66
+"105033090"|"Serviços de transporte aéreo de outras cargas especiais"|16.06|16.66
+"105039000"|"Serviços de transportes aéreos de outros tipos de cargas"|16.06|16.66
+"105041010"|"Serviços de transporte multimodal de cargas sólidas, a granel"|16.06|16.66
+"105041020"|"Serviços de transporte multimodal de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105041030"|"Serviços de transporte multimodal de cargas gasosas a granel"|16.06|16.66
+"105042000"|"Serviços de transporte multimodal de cargas vivas"|16.06|16.66
+"105043010"|"Serviços de transporte multimodal de cargas soltas, não unitizadas"|16.06|16.66
+"105043020"|"Serviços de transporte multimodal de cargas unitizadas, exceto de contêineres"|16.06|16.66
+"105044010"|"Serviços de transporte multimodal de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105044090"|"Serviços de transporte multimodal de outros tipos de contêineres"|16.06|16.66
+"105045000"|"Serviços de transporte multimodal de mudanças domésticas, de mobília de escritório e de outros objetos"|16.06|16.66
+"105046000"|"Serviços de transporte multimodal de cargas especiais e de grande porte"|16.06|16.66
+"105047000"|"Serviços de transporte multimodal de veículos"|16.06|16.66
+"105048010"|"Serviços de transporte multimodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105048020"|"Serviços de transporte multimodal de produtos químicos perigosos"|16.06|16.66
+"105048090"|"Serviços de transporte multimodal de outros produtos perigosos"|16.06|16.66
+"105049000"|"Serviços de transporte multimodal de outros tipos de carga"|16.06|16.66
+"105051010"|"Serviços de transporte intermodal de cargas sólidas, a granel"|16.06|16.66
+"105051020"|"Serviços de transporte intermodal de cargas líquidas ou liquefeitas, a granel"|16.06|16.66
+"105051030"|"Serviços de transporte intermodal de cargas gasosas a granel"|16.06|16.66
+"105052000"|"Serviços de transporte intermodal de cargas vivas"|16.06|16.66
+"105053010"|"Serviços de transporte intermodal de cargas soltas, não unitizadas."|16.06|16.66
+"105053020"|"Serviços de transporte intermodal de cargas unitizadas, exceto de contêineres"|16.06|16.66
+"105054010"|"Serviços de transporte intermodal de cargas frigorificadas ou climatizadas"|16.06|16.66
+"105054090"|"Serviços de transporte intermodal de outros tipos de contêineres"|16.06|16.66
+"105055000"|"Serviços de transporte intermodal de mudanças domésticas, de mobília de escritório e de outros objetos"|16.06|16.66
+"105056000"|"Serviços de transporte intermodal de cargas especiais e de grande porte"|16.06|16.66
+"105057000"|"Serviços de transporte intermodal de veículos"|16.06|16.66
+"105058010"|"Serviços de transporte intermodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"105058020"|"Serviços de transporte intermodal de produtos químicos perigosos"|16.06|16.66
+"105058090"|"Serviços de transporte intermodal de outros produtos perigosos"|16.06|16.66
+"105059000"|"Serviços de transporte intermodal de outros tipos de carga"|16.06|16.66
+"106011000"|"Serviços de manuseio de contêineres"|16.06|16.66
+"106019000"|"Outros serviços de manuseio de cargas e bagagens"|16.06|16.66
+"106021000"|"Serviços de armazenagem frigorífica"|17.06|17.66
+"106022010"|"Serviços de armazenagem de petróleo e seus derivados"|16.06|16.66
+"106022020"|"Serviços de armazenagem de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos"|16.06|16.66
+"106022030"|"Serviços de armazenagem de produtos químicos perigosos"|16.06|16.66
+"106022090"|"Serviços de armazenagem de outros produtos perigosos"|16.06|16.66
+"106023010"|"Serviços de armazenagem de granéis sólidos"|16.06|16.66
+"106023020"|"Serviços de armazenagem de granéis líquidos ou liquefeitos"|16.06|16.66
+"106023030"|"Serviços de armazenagem de granéis gasosos"|16.06|16.66
+"106029000"|"Outros serviços de armazenagem em depósitos"|16.06|16.66
+"106030000"|"Serviços de apoio para transportes ferroviários"|16.06|16.66
+"106041000"|"Serviços de estações rodoviárias"|16.06|16.66
+"106042010"|"Serviços de operação de autoestradas"|16.06|16.66
+"106042020"|"Serviços de operação de pontes e túneis"|16.06|16.66
+"106042030"|"Serviços de exploração de pedágios"|17.25|17.85
+"106043000"|"Serviços de estacionamentos"|17.06|17.66
+"106044000"|"Serviços de reboque para veículos particulares e comerciais"|16.06|16.66
+"106049000"|"Outros serviços de apoio ao transporte rodoviário"|17.25|17.85
+"106051000"|"Serviços de operação de portos e canais, exceto manuseio de cargas"|16.06|16.66
+"106052000"|"Serviços de praticagem e de docas"|16.06|16.66
+"106053000"|"Serviços de salvamento de embarcações"|16.06|16.66
+"106059000"|"Outros serviços de apoio ao transporte aquaviário, exceto os serviços de navegação de apoio"|17.25|17.85
+"106061000"|"Serviços de operação de aeroportos, exceto manuseio de cargas"|16.06|16.66
+"106062000"|"Serviços de controle de tráfego aéreo"|16.06|16.66
+"106069000"|"Outros serviços de apoio ao transporte aéreo"|17.65|18.25
+"106071000"|"Serviços de agências de fretamento de transporte e outros serviços de fretamento de transportes"|16.06|16.66
+"106072000"|"Outros serviços de apoio aos transporte não classificados em outra posição"|16.06|16.66
+"106081000"|"Serviços de coleta e entrega do transporte multimodal e intermodal de cargas"|16.06|16.66
+"106082000"|"Serviços de unitização ou desunitização do transporte multimodal e intermodal de cargas"|16.06|16.66
+"106083000"|"Serviços de movimentação do transporte multimodal e intermodal de cargas"|16.06|16.66
+"106084000"|"Serviços de consolidação ou desconsolidação documental do transporte multimodal e intermodal de cargas"|16.06|16.66
+"106089000"|"Outros serviços de apoio ao transporte multimodal e intermodal de cargas"|16.06|16.66
+"107010000"|"Serviços postais"|18.42|19.02
+"107020000"|"Serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos"|18.42|19.02
+"107030000"|"Serviços de remessas expressas"|18.42|19.02
+"108011100"|"Serviços de transmissão de eletricidade"|13.45|14.05
+"108011200"|"Serviços de distribuição de eletricidade"|13.45|14.05
+"108012000"|"Serviços de distribuição de gás canalizado"|13.45|14.05
+"108021000"|"Serviços de distribuição de água por meio de tubulações, exceto vapor de água e água quente"|13.45|14.05
+"108022000"|"Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de tubulações"|13.45|14.05
+"108023000"|"Serviços de distribuição de água, exceto através de tubulações"|13.45|14.05
+"109011000"|"Serviços de banco central"|17.15|17.75
+"109012100"|"Serviços de depósito para pessoas jurídicas"|18.36|18.96
+"109012200"|"Serviços de depósito para pessoas físicas"|18.35|18.95
+"109012900"|"Outros serviços de depósito"|18.41|19.01
+"109013100"|"Serviços de financiamentos imobiliários residenciais"|18.43|19.03
+"109013200"|"Serviços de financiamentos imobiliários não-residenciais"|18.43|19.03
+"109013300"|"Serviços de empréstimos e financiamentos, pessoais"|18.43|19.03
+"109013400"|"Serviços de empréstimos e financiamentos, comerciais"|18.43|19.03
+"109013500"|"Serviços de empréstimos e financiamentos, industriais"|18.43|19.03
+"109013600"|"Serviços de empréstimos e financiamentos, agropecuários"|18.43|19.03
+"109013900"|"Outros serviços de concessão de crédito"|18.43|19.03
+"109014000"|"Serviços de cartão de crédito"|18.43|19.03
+"109015111"|"Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de passageiros"|16.70|17.30
+"109015112"|"Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de mercadorias"|16.70|17.30
+"109015113"|"Arrendamento mercantil financeiro de veículos e equipamentos ferroviários"|16.70|17.30
+"109015114"|"Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto"|16.70|17.30
+"109015115"|"Arrendamento mercantil financeiro de navios e outras embarcações"|16.70|17.30
+"109015116"|"Arrendamento mercantil financeiro de aeronaves"|16.70|17.30
+"109015117"|"Arrendamento mercantil financeiro de contêineres"|16.70|17.30
+"109015121"|"Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas"|16.70|17.30
+"109015122"|"Arrendamento mercantil financeiro de máquinas e equipamentos de construção"|16.70|17.30
+"109015123"|"Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios, exceto computadores"|16.70|17.30
+"109015124"|"Arrendamento mercantil financeiro de computadores"|16.70|17.30
+"109015125"|"Arrendamento mercantil financeiro de equipamentos de telecomunicação"|16.70|17.30
+"109015129"|"Arrendamento mercantil financeiro de máquinas e equipamentos, não classificados em outra posição"|16.70|17.30
+"109015210"|"Arrendamento mercantil financeiro de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios"|16.70|17.30
+"109015220"|"Arrendamento mercantil financeiro de mídias gravadas"|16.70|17.30
+"109015230"|"Arrendamento mercantil financeiro de móveis e eletrodomésticos"|16.70|17.30
+"109015240"|"Arrendamento mercantil financeiro de equipamentos para diversão e lazer"|16.70|17.30
+"109015250"|"Arrendamento mercantil financeiro de artigos de cama, mesa e banho"|16.70|17.30
+"109015290"|"Arrendamento mercantil financeiro     de  outras  mercadorias não classificadas em outra posição"|16.70|17.30
+"109019000"|"Outros serviços financeiros"|16.70|17.30
+"109021000"|"Serviços de valoração de ativos"|17.15|17.75
+"109022000"|"Serviços de subscrição de valores mobiliários"|17.15|17.75
+"109023000"|"Serviços de fusões e aquisições"|17.15|17.75
+"109024000"|"Serviços de capital de risco e finanças corporativas"|17.15|17.75
+"109029000"|"Outros serviços relacionados a bancos de investimentos"|17.15|17.75
+"109031100"|"Serviços de seguro de vida"|17.15|17.75
+"109031200"|"Serviços de previdência complementar aberta"|17.15|17.75
+"109031300"|"Serviços de previdência complementar fechada"|17.15|17.75
+"109032000"|"Serviços de seguros saúde e de acidentes"|0|0
+"109039100"|"Serviços de seguros de veículos rodoviários"|17.15|17.75
+"109039200"|"Serviços de seguros para transporte ferroviário, aquaviário e aéreo"|17.15|17.75
+"109039300"|"Serviços de seguros de cargas"|17.15|17.75
+"109039400"|"Serviços de seguros de outras propriedades"|17.15|17.75
+"109039500"|"Serviços de seguros por responsabilidade civil"|17.15|17.75
+"109039600"|"Serviços de seguro de crédito e de caução"|17.15|17.75
+"109039700"|"Serviços de seguro de viagem"|17.15|17.75
+"109039900"|"Outros serviços de seguro"|18.08|18.68
+"109041000"|"Serviços de resseguros de vida"|17.80|18.40
+"109042000"|"Serviços de resseguros saúde e de acidentes"|17.80|18.40
+"109043100"|"Serviços de resseguros de veículos rodoviários"|17.47|18.07
+"109043200"|"Serviços de resseguros de transportes ferroviários, aquaviários e aéreos"|17.47|18.07
+"109043300"|"Serviços de resseguros de cargas"|17.47|18.07
+"109043400"|"Serviços de resseguros de outras propriedades"|17.47|18.07
+"109043500"|"Serviços de resseguros de responsabilidade civil"|17.47|18.07
+"109043600"|"Serviços de resseguros de crédito e caução"|17.47|18.07
+"109043900"|"Outros serviços de resseguros"|17.47|18.07
+"109051100"|"Serviços de corretagem de títulos"|17.80|18.40
+"109051200"|"Serviços de corretagem de derivativos e commodities"|17.80|18.40
+"109051300"|"Serviços de compensação de transações financeiras, inclusive com ativos financeiros (clearinghouse)"|17.80|18.40
+"109052000"|"Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão"|17.80|18.40
+"109053000"|"Serviços de guarda e custódia"|17.80|18.40
+"109054000"|"Serviços relacionados à administração de mercados financeiros"|17.80|18.40
+"109059100"|"Serviços de consultoria financeira"|17.80|18.40
+"109059200"|"Serviços de câmbio"|18.27|18.87
+"109059300"|"Serviços de classificação de risco (rating)"|17.80|18.40
+"109059400"|"Serviços fiduciários"|17.80|18.40
+"109059900"|"Outros serviços auxiliares aos serviços financeiros não classificados em outra posição"|17.80|18.40
+"109061100"|"Serviços de agenciamento e corretagem de seguros e previdência complementar"|17.80|18.40
+"109061200"|"Serviços de corretagem de planos privados de assistência à saúde"|17.80|18.40
+"109062000"|"Serviços de perícia e avaliação de seguros"|17.80|18.40
+"109063000"|"Serviços atuariais"|17.80|18.40
+"109064000"|"Serviços de gestão de fundos de previdência complementar"|17.80|18.40
+"109069000"|"Outros serviços auxiliares a seguros, previdência complementar e planos privados de assistência à saúde"|17.80|18.40
+"109070000"|"Securitização de recebíveis"|17.80|18.40
+"109080000"|"Fomento comercial (factoring)"|17.72|18.32
+"110011100"|"Serviços de administração e locação de imóveis residenciais"|17.85|18.45
+"110011210"|"Serviços de administração de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza"|18.15|18.75
+"110011290"|"Outros serviços de administração e locação de imóveis não residenciais"|18.13|18.73
+"110012100"|"Compra e venda de imóveis residenciais"|17.85|18.45
+"110012200"|"Compra e venda de imóveis não-residenciais"|17.85|18.45
+"110013000"|"Serviços de avaliação de imóveis"|18.15|18.75
+"110014000"|"Serviços de consultoria imobiliária"|17.85|18.45
+"110015000"|"Serviços de assessoria de gestão condominial (condomínios, edifícios residenciais e mistos)"|17.85|18.45
+"111011100"|"Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de até oito passageiros, sem operador"|17.85|18.45
+"111011200"|"Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de mercadorias, sem operador"|17.85|18.45
+"111011300"|"Arrendamento mercantil operacional ou locação de veículos e equipamentos ferroviários, sem operador"|17.85|18.45
+"111011400"|"Arrendamento mercantil operacional ou locação de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto, sem operador"|13.45|14.05
+"111011500"|"Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem tripulação"|17.85|18.45
+"111011600"|"Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação"|17.85|18.45
+"111011700"|"Arrendamento mercantil operacional ou locação de contêineres"|17.85|18.45
+"111012100"|"Arrendamento mercantil operacional ou locação de máquinas e equipamentos agrícolas, sem operador"|16.76|17.36
+"111012200"|"Arrendamento mercantil operacional ou locação de máquinas e equipamentos de construção, sem operador"|16.76|17.36
+"111012300"|"Arrendamento mercantil operacional ou locação de máquinas e equipamentos para escritórios, exceto computadores, sem operador"|16.76|17.36
+"111012400"|"Arrendamento mercantil operacional ou locação de computadores, sem operador"|16.76|17.36
+"111012500"|"Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação, sem operador"|16.76|17.36
+"111012900"|"Arrendamento mercantil operacional ou locação de máquinas e equipamentos, não classificados em outra posição, sem operador"|16.76|17.36
+"111021000"|"Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios"|16.76|17.36
+"111022000"|"Arrendamento mercantil operacional ou locação de mídias gravadas"|16.76|17.36
+"111023000"|"Arrendamento mercantil    operacional  ou  locação  de  móveis e eletrodomésticos"|16.76|17.36
+"111024000"|"Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer"|16.76|17.36
+"111025000"|"Arrendamento mercantil operacional ou locação de artigos de cama, mesa e banho"|16.76|17.36
+"111026000"|"Arrendamento mercantil operacional ou locação de roupas e calçados"|16.76|17.36
+"111029000"|"Arrendamento mercantil operacional ou locação de outras mercadorias não classificadas em outra posição"|16.76|17.36
+"111031000"|"Licenciamento de direitos de obras literárias"|16.76|17.36
+"111032100"|"Licenciamento de direitos de produção, distribuição ou comercialização de programas de computador"|16.37|16.97
+"111032200"|"Licenciamento de direitos de uso de programas de computador"|16.37|16.97
+"111032900"|"Licenciamento de outros direitos sobre programas de computador"|16.37|16.97
+"111033100"|"Licenciamento de direitos de autor de obras cinematográficas"|18.29|18.89
+"111033200"|"Licenciamento de direitos de autor de obras jornalísticas"|18.29|18.89
+"111033300"|"Licenciamento de direitos de autor de obras publicitárias"|18.29|18.89
+"111033400"|"Licenciamento de direitos conexos de artistas intérpretes ou executantes em obras audiovisuais"|18.29|18.89
+"111033500"|"Licenciamento de direitos conexos de produtores de obras audiovisuais"|18.29|18.89
+"111033911"|"Licenciamento de direitos de obras audiovisuais sobre transmissões de eventos esportivos"|18.29|18.89
+"111033912"|"Licenciamento de direitos de obras audiovisuais sobre transmissões de programas televisivos"|18.29|18.89
+"111033919"|"Licenciamento de direitos   de  obras  audiovisuais sobre outras transmissões televisivas"|18.29|18.89
+"111033990"|"Licenciamento de direitos de outras obras audiovisuais"|18.29|18.89
+"111034100"|"Licenciamento de direitos de autor de obras musicais ou literomusicais"|18.29|18.89
+"111034200"|"Licenciamento de direitos conexos de artistas intérpretes ou executantes"|18.29|18.89
+"111034300"|"Licenciamento de direitos conexos de produtores de fonogramas"|18.29|18.89
+"111035000"|"Licenciamento de direitos relacionados à radiodifusão"|18.29|18.89
+"111039100"|"Licenciamento de outros direitos de autor"|18.29|18.89
+"111039200"|"Licenciamento de outros direitos conexos"|18.29|18.89
+"111041000"|"Cessão temporária de direitos de obras literárias"|18.29|18.89
+"111042000"|"Cessão temporária de direitos sobre programas de computador"|18.29|18.89
+"111043100"|"Cessão temporária de direitos de autor de obras cinematográficas"|18.29|18.89
+"111043200"|"Cessão temporária de direitos de autor de obras jornalísticas"|18.29|18.89
+"111043300"|"Cessão temporária de direitos de autor de obras publicitárias"|18.29|18.89
+"111043400"|"Cessão temporária de direitos conexos de artistas intérpretes ou executantes em obras audiovisuais"|18.29|18.89
+"111043500"|"Cessão temporária de direitos conexos de produtores de obras audiovisuais"|18.29|18.89
+"111043911"|"Cessão temporária de direitos de obras audiovisuais sobre transmissões de eventos esportivos"|18.29|18.89
+"111043912"|"Cessão temporária de direitos de obras audiovisuais sobre transmissões de programas televisivos"|18.29|18.89
+"111043919"|"Cessão temporária de direitos de obras audiovisuais sobre outras transmissões televisivas"|18.29|18.89
+"111043990"|"Cessão temporária de direitos de outras obras audiovisuais"|18.29|18.89
+"111044100"|"Cessão temporária de direitos de autor de obras musicais e literomusicais"|18.29|18.89
+"111044200"|"Cessão temporária de direitos conexos de artistas intérpretes ou executantes"|18.29|18.89
+"111044300"|"Cessão temporária de direitos conexos de produtores de fonogramas"|18.29|18.89
+"111045000"|"Cessão temporária de direitos relacionados à radiodifusão"|18.29|18.89
+"111049100"|"Cessão temporária de outros direitos de autor"|18.29|18.89
+"111049200"|"Cessão temporária de outros direitos conexos"|18.37|18.97
+"111051000"|"Licenciamento de direitos sobre patentes"|18.29|18.89
+"111052000"|"Licenciamento de direitos sobre marcas"|18.29|18.89
+"111053000"|"Licenciamento de direitos sobre desenho industrial"|18.29|18.89
+"111059000"|"Licenciamento de outros direitos sobre a propriedade industrial"|18.29|18.89
+"111060000"|"Licenciamento de direitos sobre cultivares"|18.29|18.89
+"111070000"|"Licenciamento de direitos sobre topografias de circuitos integrados"|18.29|18.89
+"111080000"|"Licenciamento de direitos relativos à informação não divulgada"|18.29|18.89
+"111090000"|"Licenciamento de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores"|18.29|18.89
+"111101000"|"Contratos de prestação de serviços de assistência técnica e científica, combinadamente ou não, com qualquer modalidade de transferência de tecnologia"|18.37|18.97
+"111102000"|"Contratos de fornecimento de tecnologia (know-how)"|18.37|18.97
+"111103000"|"Contratos de franquia"|18.37|18.97
+"111109000"|"Outros contratos de transferência de tecnologia"|18.37|18.97
+"111111000"|"Exploração de recursos vegetais, inclusive florestais"|18.32|18.92
+"111112000"|"Exploração de recursos minerais"|18.32|18.92
+"111121000"|"Licenciamento de direitos sobre conhecimento tradicional associado a recursos genéticos"|18.29|18.89
+"111129000"|"Licenciamento de direitos sobre outros conhecimentos tradicionais"|18.29|18.89
+"111130000"|"Licenciamento de direitos relativos ao acesso a recursos genéticos, exceto os decorrentes do conhecimento tradicional"|18.29|18.89
+"112011100"|"Serviços de pesquisa e desenvolvimento em física"|17.13|17.73
+"112011200"|"Serviços de pesquisa e desenvolvimento em química e biologia"|17.79|18.39
+"112011900"|"Serviços de pesquisa e desenvolvimento em outras ciências naturais e exatas"|17.13|17.73
+"112012100"|"Serviços de pesquisa e desenvolvimento em biotecnologia"|17.13|17.73
+"112012200"|"Serviços de pesquisa e desenvolvimento em tecnologia da informação e comunicação (TIC)"|17.13|17.73
+"112012300"|"Serviços de pesquisa e desenvolvimento em nanotecnologia"|17.13|17.73
+"112012400"|"Serviços de pesquisa e desenvolvimento em engenharia e tecnologia nucleares"|17.13|17.73
+"112012500"|"Serviços de pesquisa e desenvolvimento em engenharia e tecnologia em microondas de potência"|17.13|17.73
+"112012900"|"Outros serviços de pesquisa e desenvolvimento em outros ramos da engenharia e tecnologia"|17.13|17.73
+"112013000"|"Serviços de pesquisa e desenvolvimento em      ciências médica, odontológica e farmacêutica"|17.13|17.73
+"112014000"|"Serviços de pesquisa e desenvolvimento em ciências agrícolas"|17.13|17.73
+"112019100"|"Pesquisa tecnológica utilizando documentos de patentes"|17.13|17.73
+"112019900"|"Outros serviços de pesquisa e desenvolvimento em ciências naturais e engenharia"|17.13|17.73
+"112021100"|"Serviços de pesquisa e desenvolvimento em psicologia"|17.13|17.73
+"112021200"|"Serviços de pesquisa e desenvolvimento em economia"|17.13|17.73
+"112021300"|"Serviços de pesquisa e desenvolvimento em direito"|17.13|17.73
+"112021900"|"Serviços de pesquisa e desenvolvimento em outras ciências sociais"|17.13|17.73
+"112022000"|"Serviços de pesquisa e desenvolvimento em humanidades"|17.13|17.73
+"112030000"|"Serviços de pesquisa e desenvolvimento interdisciplinar"|17.13|17.73
+"113011000"|"Serviços de representação e consultoria jurídica criminal"|18.45|19.05
+"113012000"|"Serviços de representação e consultoria jurídica em outras áreas do direito"|18.45|19.05
+"113013000"|"Serviços de documentação e certificação, exceto os serviços notariais e de registro"|18.45|19.05
+"113014100"|"Serviços de arbitragem, conciliação e mediação"|18.45|19.05
+"113014900"|"Outros serviços jurídicos não classificados em outra posição"|18.45|19.05
+"113021100"|"Serviços de auditoria contábil"|18.45|19.05
+"113021900"|"Outros serviços de auditoria"|18.45|19.05
+"113022100"|"Serviços de contabilidade"|18.45|19.05
+"113022200"|"Serviços de escrituração mercantil"|18.45|19.05
+"113022300"|"Serviços de folha de pagamento"|18.45|19.05
+"113022900"|"Outros serviços de contabilidade e escrituração mercantil"|18.33|18.93
+"113031000"|"Serviços de consultoria tributária para pessoas jurídicas"|18.43|19.03
+"113032000"|"Serviços de consultoria tributária para pessoas físicas"|18.43|19.03
+"113040000"|"Serviços notariais e de registros"|17.85|18.45
+"114011100"|"Serviços de consultoria gerencial estratégica"|17.78|18.38
+"114011200"|"Serviços de consultoria gerencial financeira"|18.44|19.04
+"114011300"|"Serviços de consultoria gerencial em recursos humanos"|18.43|19.03
+"114011400"|"Serviços de consultoria gerencial em marketing"|18.43|19.03
+"114011500"|"Serviços de consultoria gerencial operacional"|18.32|18.92
+"114011600"|"Serviços de consultoria gerencial em energia"|18.43|19.03
+"114011700"|"Serviços de consultoria em logística"|18.43|19.03
+"114011800"|"Serviços gerenciais em processos de negócios"|18.21|18.81
+"114011900"|"Outros serviços gerenciais e de consultoria gerencial"|18.43|19.03
+"114012000"|"Serviços de relações públicas"|18.43|19.03
+"114013100"|"Serviços de assessoria de imprensa"|18.41|19.01
+"114013900"|"Outros serviços de comunicação social"|18.41|19.01
+"114021100"|"Serviços de consultoria em arquitetura"|18.43|19.03
+"114021200"|"Serviços arquitetônicos para projetos de construções residenciais"|18.43|19.03
+"114021300"|"Serviços arquitetônicos para projetos de construções não residenciais"|18.43|19.03
+"114021400"|"Serviços arquitetônicos para restauração de prédios históricos"|18.43|19.03
+"114021900"|"Serviços de arquitetura relativos ao acompanhamento e fiscalização da execução de projetos arquitetônicos e urbanísticos"|18.11|18.71
+"114022100"|"Serviços de planejamento urbano"|18.43|19.03
+"114022200"|"Serviços de planejamento de áreas rurais"|18.43|19.03
+"114023100"|"Serviços de consultoria de paisagismo"|18.43|19.03
+"114023200"|"Serviços arquitetônicos de paisagismo"|18.43|19.03
+"114031000"|"Serviços de consultoria de engenharia"|17.39|17.99
+"114032110"|"Serviços de engenharia de projetos de construção residencial"|17.39|17.99
+"114032120"|"Serviços de engenharia de projetos de construção não residencial"|17.39|17.99
+"114032200"|"Serviços de engenharia de projetos industriais e de fabricação, exceto para projetos de energia"|17.39|17.99
+"114032300"|"Serviços de engenharia para projetos de transportes"|17.39|17.99
+"114032410"|"Serviços de engenharia para projetos de exploração de petróleo e gás"|17.39|17.99
+"114032420"|"Serviços de engenharia para projetos de refino de petróleo e petroquímica"|17.39|17.99
+"114032430"|"Serviços de engenharia para projetos de unidades de produção de biocombustíveis"|17.39|17.99
+"114032440"|"Serviços de engenharia para projetos de energia elétrica"|17.39|17.99
+"114032450"|"Serviços de engenharia para projetos de embarcações"|17.39|17.99
+"114032490"|"Outros serviços de engenharia para projetos de energia"|17.39|17.99
+"114032500"|"Serviços de engenharia de projetos de radiodifusão e televisão"|17.39|17.99
+"114032600"|"(perigosos e não perigosos)"|17.39|17.99
+"114032700"|"Serviços de engenharia de projetos de distribuição de água e rede de esgoto"|17.39|17.99
+"114032800"|"Serviços de engenharia de projetos de telecomunicação"|17.39|17.99
+"114032910"|"Serviços de engenharia de projetos aeroespaciais"|17.39|17.99
+"114032990"|"Outros serviços de engenharia de projetos"|17.39|17.99
+"114033000"|"Serviços de gerenciamento de projetos de construção"|17.39|17.99
+"114039000"|"Outros serviços de engenharia"|17.39|17.99
+"114041100"|"Serviços de consultoria geológica e geofísica"|17.90|18.50
+"114041200"|"Serviços geofísicos"|17.90|18.50
+"114041300"|"Serviços geoquímicos"|17.90|18.50
+"114041400"|"Serviços de avaliação e exploração de recursos naturais"|17.90|18.50
+"114041900"|"Outros serviços de prospecção"|17.90|18.50
+"114042100"|"Serviços topográficos"|18.16|18.76
+"114042200"|"Serviços cartográficos"|18.16|18.76
+"114043000"|"Serviços meteorológicos e de previsão do tempo"|18.35|18.95
+"114044100"|"Serviços de análise e de exames técnicos sobre pureza e composição"|18.16|18.76
+"114044200"|"Serviços de análise e de exames técnicos de propriedades físicas"|18.16|18.76
+"114044300"|"Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos"|18.16|18.76
+"114044400"|"Serviços de inspeção técnica de veículos de transporte rodoviários"|18.16|18.76
+"114044900"|"Outros serviços de análise e de exames técnicos"|18.16|18.76
+"114051010"|"Serviços hospitalares, com ou sem internação"|17.13|17.73
+"114051090"|"Outros serviços veterinários para animais domésticos"|17.13|17.73
+"114052010"|"Serviços hospitalares, com ou sem internação"|17.13|17.73
+"114052090"|"Outros serviços veterinários para animais de corte"|17.13|17.73
+"114053000"|"Serviços funerários, de cremação e de embalsamamento de animais"|17.13|17.73
+"114059100"|"Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais biológicos"|17.13|17.73
+"114059200"|"Serviços de unidades de atendimento, assistência ou tratamento móvel"|17.13|17.73
+"114059300"|"Planos de atendimento e assistência médico-veterinário"|17.13|17.73
+"114059400"|"Serviços de guarda, tratamento, adestramento, embelezamento e alojamento (hotel veterinário)"|17.13|17.73
+"114059900"|"Outros serviços veterinários"|17.13|17.73
+"114061100"|"Serviços de campanhas publicitárias"|17.98|18.58
+"114061200"|"Serviços de marketing direto e mala direta"|17.98|18.58
+"114061900"|"Outros serviços de propaganda"|18.13|18.73
+"114062000"|"Aquisição ou venda de espaço ou tempo para propaganda, sob comissão"|17.98|18.58
+"114063100"|"Venda de espaço para propaganda em mídia impressa, exceto sob comissão"|17.98|18.58
+"114063200"|"Venda de tempo para propaganda em rádio e televisão, exceto sob comissão"|17.98|18.58
+"114063300"|"Venda de espaço para propaganda na rede mundial de computadores, exceto sob comissão"|17.98|18.58
+"114063900"|"Venda de espaço ou tempo para propaganda em outros meios de comunicação publicitária, exceto sob comissão"|17.98|18.58
+"114070000"|"Pesquisas de mercado e serviços de pesquisa de opinião pública"|18.43|19.03
+"114081100"|"Serviços fotográficos de retratos"|18.45|19.05
+"114081200"|"Serviços fotográficos para propaganda"|18.45|19.05
+"114081300"|"Serviços fotográficos e videográficos de eventos"|18.16|18.76
+"114081400"|"Serviços fotográficos especiais"|17.13|17.73
+"114081900"|"Outros serviços fotográficos"|18.16|18.76
+"114082000"|"Serviços de processamento de fotografias"|0|0
+"114091110"|"Serviços de projetos (design) de espaços comerciais e públicos"|17.90|18.50
+"114091190"|"Outros serviços de projeto (design) de interiores"|17.90|18.50
+"114091200"|"Serviços de desenho industrial"|18.17|18.77
+"114091310"|"Serviços de projetos (design) de marcas, imagens, objetos gráficos e digitais"|17.90|18.50
+"114091320"|"Serviços de projetos (design) de embalagens, expositores de loja e objetos promocionais para comunicação e vendas"|17.90|18.50
+"114091330"|"Serviços de projetos (design) de produtos, utensílios, equipamentos, vestuário, calçados, ornamentos, jóias e objetos pessoais"|17.90|18.50
+"114091340"|"Serviços de projetos (design) de máquinas, equipamentos, acessórios e objetos de uso industrial de qualquer natureza"|17.90|18.50
+"114091390"|"Outros serviços projetos (design) originais"|17.59|18.19
+"114091900"|"Outros serviços especializados de projeto (design)"|17.94|18.54
+"114092100"|"Serviços de consultoria ambiental"|17.90|18.50
+"114092900"|"Outros serviços técnicos e científicos não classificados em outra posição"|18.43|19.03
+"114093000"|"Compilação e coletânea de fatos e informações originais"|18.43|19.03
+"114094000"|"Serviços de tradução e de intérpretes"|18.43|19.03
+"114095000"|"Serviços para registros de marcas comerciais e de franquias empresariais, exceto as licenças de uso de direito"|17.85|18.45
+"114099000"|"Outros serviços profissionais, técnicos e gerenciais não classificados em outra posição"|13.45|14.05
+"115011000"|"Serviços de consultoria em tecnologia da informação (TI)"|18.13|18.73
+"115012000"|"Serviços de segurança em tecnologia da informação (TI)"|18.13|18.73
+"115013000"|"Serviços de suporte em tecnologia da informação (TI)"|16.81|17.41
+"115021000"|"Serviços de projeto, desenvolvimento e instalação de aplicativos e programas não personalizados (não customizados)"|17.59|18.19
+"115022000"|"Serviços de projeto e desenvolvimento, adaptação e instalação de aplicativos personalizados (customizados)"|17.59|18.19
+"115023000"|"Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas"|18.16|18.76
+"115024000"|"Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados"|17.25|17.85
+"115025000"|"Serviços de integração de sistemas em tecnologia da informação (TI)"|17.59|18.19
+"115029000"|"Outros serviços de projeto e desenvolvimento de aplicativos"|17.00|17.60
+"115030000"|"Serviços de projeto e desenvolvimento de redes em tecnologia da informação (TI)"|17.59|18.19
+"115040000"|"Serviços de projeto e desenvolvimento de topografias de circuitos integrados"|17.59|18.19
+"115050000"|"Serviços de projeto de circuitos integrados"|17.59|18.19
+"115061000"|"Serviços de hospedagem de sítios na rede mundial de computadores"|17.59|18.19
+"115062000"|"Serviços de hospedagem de aplicativos e programas"|17.59|18.19
+"115069000"|"Outros serviços de infraestrutura para hospedagem em tecnologia da informação (TI)"|17.59|18.19
+"115071000"|"Serviços de gerenciamento de redes"|17.59|18.19
+"115072000"|"Serviços de gerenciamento de sistemas computacionais"|17.59|18.19
+"115079000"|"Outros serviços de gerenciamento de infraestrutura de tecnologia da informação (TI)"|17.59|18.19
+"115080000"|"Serviços de manutenção de aplicativos e programas"|17.59|18.19
+"115090000"|"Serviços auxiliares de processamento de dados"|17.25|17.85
+"115100000"|"Outros serviços de gerenciamento de tecnologia da informação (TI)"|17.59|18.19
+"117011110"|"Local"|13.45|14.05
+"117011120"|"Nacional"|13.45|14.05
+"117011130"|"Internacional"|13.45|14.05
+"117011210"|"Local"|13.45|14.05
+"117011220"|"Nacional"|13.45|14.05
+"117011230"|"Internacional"|13.45|14.05
+"117011300"|"Serviços de valor adicionado sobre serviços de telecomunicações fixos"|13.45|14.05
+"117011400"|"Serviços de gerência de redes fixas e administração de seus usuários"|13.45|14.05
+"117011500"|"Serviços de interconexão pelo uso da rede fixa"|13.45|14.05
+"117011900"|"Outros serviços de telecomunicações fixas"|13.45|14.05
+"117012110"|"Local"|13.45|14.05
+"117012120"|"Nacional"|13.45|14.05
+"117012130"|"Internacional"|13.45|14.05
+"117012210"|"Local"|13.45|14.05
+"117012220"|"Nacional"|13.45|14.05
+"117012230"|"Internacional"|13.45|14.05
+"117012300"|"Serviços de valor adicionado sobre serviços de telecomunicações móveis"|13.45|14.05
+"117012400"|"Serviços de gerência das redes móveis e administração de seus usuários"|13.45|14.05
+"117012500"|"Serviços de interconexão pelo uso de rede móvel"|13.45|14.05
+"117012610"|"Serviços de usuário visitante nacional (roaming nacional)"|13.45|14.05
+"117012620"|"Serviços de usuário visitante internacional (roaming internacional)"|13.45|14.05
+"117012700"|"Serviços nomádicos"|13.45|14.05
+"117012900"|"Outros serviços de telecomunicações móveis"|13.45|14.05
+"117013010"|"Serviços fixos de redes privativas"|13.45|14.05
+"117013020"|"Serviços móveis, nomádicos de uso privativo"|13.45|14.05
+"117013031"|"Serviços de interesse restrito de abrangência local"|13.45|14.05
+"117013032"|"Serviços de interesse restrito de abrangência nacional"|13.45|14.05
+"117013033"|"Serviços de interesse restrito de abrangência internacional"|13.45|14.05
+"117013040"|"Serviços de valor adicionado sobre serviços de redes privadas ou de serviços de interesse restrito"|13.45|14.05
+"117014010"|"Serviços de transmissão de dados local, nacional ou internacional"|13.45|14.05
+"117014020"|"Serviços de exploração de linha dedicada local, nacional ou internacional"|13.45|14.05
+"117015010"|"Serviços de distribuição de pacotes básicos de programação de televisão por assinatura"|13.45|14.05
+"117015020"|"Serviços de distribuição de grades de programação especiais de televisão por assinatura"|13.45|14.05
+"117015030"|"Serviços de distribuição de programação através do sistema “pague e assista” (pay-per-view) de televisão por assinatura"|13.45|14.05
+"117015090"|"Outros serviços de distribuição de programação de televisão por assinatura, inclusive os “pacotes combinados”"|13.45|14.05
+"117019000"|"Outros serviços de telecomunicações"|13.45|14.05
+"117021000"|"Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de computadores"|13.45|14.05
+"117022100"|"Serviços de acesso à rede mundial de computadores por conexão discada"|13.45|14.05
+"117022200"|"Serviços de acesso à rede mundial de computadores por banda larga"|13.45|14.05
+"117029000"|"Outros serviços na rede mundial de computadores"|13.45|14.05
+"117031000"|"Serviços de oferta de livros, jornais, periódicos, diretórios e listas de postagem de acesso imediato (on-line)"|13.45|14.05
+"117032000"|"Serviços de oferta de áudio, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line)"|13.45|14.05
+"117033000"|"(streaming), de acesso imediato (on-line)"|13.45|14.05
+"117034000"|"Serviços de oferta de conteúdos que combinem duas ou mais mídias de acesso imediato (on-line)"|13.45|14.05
+"117035000"|"Serviços de conteúdo de portais de busca na rede mundial de computadores"|13.45|14.05
+"117039000"|"Outros serviços de conteúdos de acesso imediato (on-line)"|13.45|14.05
+"117041000"|"Serviços de agências de notícias para jornais e periódicos"|18.29|18.89
+"117042000"|"Serviços de agências de notícias em mídia audiovisual"|18.29|18.89
+"117049000"|"Outros serviços de agências de notícias"|18.29|18.89
+"117051000"|"Serviços de biblioteca"|18.45|19.05
+"117052000"|"Serviços de arquivamento"|18.45|19.05
+"117061100"|"Serviços de difusão de programas originais de rádio"|13.45|14.05
+"117061210"|"Serviços de difusão de programas originais para televisão aberta"|13.45|14.05
+"117061220"|"Serviços de difusão de programas originais para televisão por assinatura"|13.45|14.05
+"117062100"|"Serviços de programação dos canais de rádio"|13.45|14.05
+"117062200"|"Serviços de programação dos canais de televisão"|13.45|14.05
+"117063000"|"Serviços de distribuição de sinais de rádio e televisão"|13.45|14.05
+"117064000"|"Serviços de distribuição de programas de televisão aberta"|13.45|14.05
+"118011000"|"Serviços de busca de empregos e encaminhamento de pessoal"|18.26|18.86
+"118012100"|"Serviços de fornecimento de mão de obra efetiva"|16.94|17.54
+"118012200"|"Serviços de fornecimento de mão de obra temporária"|16.94|17.54
+"118019000"|"Outros serviços de recrutamento e seleção de pessoal"|16.94|17.54
+"118021000"|"Serviços de investigação"|18.45|19.05
+"118022000"|"Serviços de consultoria em segurança"|18.45|19.05
+"118023000"|"Serviços de sistemas de segurança"|18.45|19.05
+"118024000"|"Serviços de transporte de valores"|18.42|19.02
+"118025000"|"Serviços de guarda e escolta armada"|16.76|17.36
+"118029000"|"Outros serviços de segurança"|16.50|17.10
+"118031000"|"Serviços de desinfecção e extermínio de pragas"|18.29|18.89
+"118032000"|"Serviços gerais de limpeza"|17.65|18.25
+"118033000"|"Serviços especializados de limpeza"|17.65|18.25
+"118041100"|"Serviços de reservas em transportes aéreos"|18.45|19.05
+"118041900"|"Outros serviços de planejamento e reserva em transportes"|18.45|19.05
+"118042100"|"Serviços de reservas de hospedagem"|18.29|18.89
+"118042200"|"Serviços de reservas em cruzeiros"|18.29|18.89
+"118042300"|"Serviços de reservas de pacotes turísticos"|18.29|18.89
+"118043000"|"Outros serviços de reservas"|18.29|18.89
+"118044000"|"Serviços de operadoras de turismo"|18.29|18.89
+"118045000"|"Serviços de guias turísticos"|18.29|18.89
+"118046100"|"Serviços de promoção turística"|18.29|18.89
+"118046200"|"Serviços de informação a visitantes"|18.29|18.89
+"118051000"|"Serviços de informação cadastral para fins de crédito"|18.43|19.03
+"118052000"|"Serviços de cobrança"|18.45|19.05
+"118053100"|"Serviços de telemarketing, incluindo serviços de atendimento ao cliente"|13.45|14.05
+"118053900"|"Outros serviços de apoio por meio de telefone"|13.45|14.05
+"118054000"|"Serviços combinados de escritório e apoio administrativo"|18.45|19.05
+"118055100"|"Serviços de fotocópia"|18.45|19.05
+"118055200"|"Serviços de mala direta e elaboração de listas de endereços"|18.45|19.05
+"118055300"|"Serviços de preparação de documentos e outros serviços especializados de apoio a escritórios"|18.45|19.05
+"118056100"|"Serviços de assistência e organização de convenções"|18.45|19.05
+"118056200"|"Serviços de assistência e organização de feiras de negócios"|18.45|19.05
+"118056300"|"Serviços de exploração de centros de convenções, escritórios virtuais, estandes de qualquer natureza, auditórios e os demais assemelhados para realização de eventos ou negócios de qualquer natureza"|18.45|19.05
+"118056900"|"Outros serviços de assistência e organização de feiras de negócios e convenções"|18.45|19.05
+"118057000"|"Serviços de jardinagem"|17.96|18.56
+"118059011"|"Serviços de leitura de medidores de eletricidade"|13.45|14.05
+"118059012"|"Serviços de leitura de medidores de gás"|13.45|14.05
+"118059013"|"Serviços de leitura de medidores de água"|13.45|14.05
+"118059020"|"Serviços de agências de modelos"|17.85|18.45
+"118059030"|"Serviços de distribuição e venda de bilhetes e demais produtos de loteria, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres."|18.34|18.94
+"118059090"|"Outros serviços de apoio"|18.43|19.03
+"119011000"|"Serviços de apoio à agricultura"|18.40|19.00
+"119012000"|"Serviços de apoio à pecuária"|18.40|19.00
+"119013000"|"Serviços de apoio à produção florestal (silvicultura)"|18.40|19.00
+"119014000"|"Serviços de apoio à pesca"|18.40|19.00
+"119015000"|"Serviços de apoio à aquicultura"|18.40|19.00
+"119021000"|"Serviços de apoio à extração de petróleo e gás"|18.32|18.92
+"119029000"|"Outros serviços de apoio à mineração"|18.32|18.92
+"119031100"|"Serviços de apoio à transmissão de eletricidade"|13.45|14.05
+"119031200"|"Serviços de apoio à distribuição de eletricidade"|13.45|14.05
+"119032000"|"Serviços de apoio à distribuição de gás por meio de tubulações"|13.45|14.05
+"119033000"|"Serviços de apoio à distribuição de água"|13.45|14.05
+"119034000"|"Serviços de apoio à distribuição de ar condicionado, água quente e vapor por meio de tubulações"|13.45|14.05
+"120011000"|"Serviços de manutenção e reparação de produtos metálicos"|18.05|18.65
+"120012000"|"Serviços de manutenção e reparação de computadores e seus periféricos e maquinário de escritório"|16.81|17.41
+"120013100"|"Serviços de manutenção e reparação de veículos automotores rodoviários"|18.05|18.65
+"120013200"|"Serviços de manutenção e reparação de reboques (trailers), semirreboques (semi-trailers) e outros veículos não motorizados"|18.05|18.65
+"120013300"|"Serviços de manutenção e reparação de veículos militares"|18.05|18.65
+"120013911"|"Serviços de manutenção e reparação de motores, turborreatores e turbopropulsores aeronáuticos"|18.45|19.05
+"120013912"|"Serviços de manutenção e reparação     de foguetes e equipamentos aeroespaciais"|18.05|18.65
+"120013919"|"Outros serviços de manutenção e reparação de aeronaves"|18.05|18.65
+"120013921"|"Serviços de manutenção e reparação de embarcações militares"|18.05|18.65
+"120013929"|"Outros serviços de manutenção e reparação de embarcações"|18.05|18.65
+"120013930"|"Serviços de manutenção e reparação de equipamentos ferroviários e metroviários"|18.05|18.65
+"120013990"|"Outros serviços de manutenção e reparação de outros equipamentos de transporte"|18.05|18.65
+"120014000"|"Serviços de manutenção e reparação de plataformas, inclusive navios- plataforma, para extração de petróleo e gás"|18.05|18.65
+"120015100"|"Serviços de manutenção e reparação de aparelhos eletro-eletrônicos domésticos"|18.25|18.85
+"120015200"|"Serviços de manutenção e reparação de equipamentos e aparelhos de telecomunicações"|18.25|18.85
+"120015300"|"Serviços de manutenção e reparação de instrumentos e equipamentos médico-hospitalares, odontológicos, óticos e de precisão"|18.25|18.85
+"120015400"|"Serviços de manutenção e reparação de equipamentos militares"|18.25|18.85
+"120015910"|"Serviços de manutenção e reparação de turbinas industriais"|18.05|18.65
+"120015990"|"Outros serviços de manutenção e reparação de maquinário e equipamentos"|18.05|18.65
+"120021000"|"Serviços de reparação de produtos de couro, calçados, malas e bolsas"|18.01|18.61
+"120022000"|"Serviços de reparação de relógios e jóias"|18.31|18.91
+"120023000"|"Serviços de reparação de móveis"|18.45|19.05
+"120029000"|"Outros serviços de manutenção e reparação de outros bens de consumo"|18.41|19.01
+"120031000"|"Serviços de instalação de produtos metálicos"|18.45|19.05
+"120032100"|"Serviços de montagem sob encomenda de turbinas industriais"|18.45|19.05
+"120032900"|"Outros serviços de instalação de maquinário e equipamentos, industriais"|18.45|19.05
+"120033000"|"Serviços de instalação de computadores e seus periféricos e maquinário de escritório"|16.81|17.41
+"120034000"|"Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio e de televisão"|18.45|19.05
+"120035000"|"Serviços de instalação de maquinários, equipamentos, instrumentos e aparelhos médico-hospitalares, óticos e de precisão"|18.45|19.05
+"120036000"|"Serviços de instalação de sensores e sistemas de armas"|18.45|19.05
+"120037000"|"Serviços de instalação de maquinários e equipamentos de emprego militar"|18.45|19.05
+"120038010"|"Serviços de montagem sob encomenda de motores, turborreatores e turbopropulsores aeronáuticos"|18.45|19.05
+"120038090"|"Outros serviços de instalação de equipamentos e aparelhos de transporte"|18.45|19.05
+"120039000"|"Serviços de instalação de maquinário e aparelhos não classificados em outra posição"|18.45|19.05
+"121011000"|"Serviços editoriais"|17.75|18.35
+"121012100"|"Serviços de impressão"|17.75|18.35
+"121012200"|"Serviços relacionados à impressão"|17.75|18.35
+"121012300"|"Serviços de reprodução de mídia gravada"|17.75|18.35
+"121013000"|"Serviços de apoio aos serviços de reprodução, impressão e editoração"|17.75|18.35
+"121019000"|"Outros serviços de reprodução, impressão e editoração"|17.75|18.35
+"122011100"|"Serviços de creches ou de entidades equivalentes, para crianças de até três anos de idade"|16.14|16.74
+"122011200"|"Serviços de pré-escola, para crianças de quatro a cinco anos e onze meses de idade"|16.14|16.74
+"122011900"|"Outros serviços de educação infantil"|16.14|16.74
+"122012000"|"Serviços de ensino fundamental"|16.14|16.74
+"122013000"|"Serviços de ensino médio"|16.14|16.74
+"122020000"|"Serviços de educação técnica de nível médio"|16.14|16.74
+"122031000"|"Serviços de alfabetização de jovens e adultos"|16.14|16.74
+"122032000"|"Serviços de ensino fundamental de jovens e adultos"|16.14|16.74
+"122033000"|"Serviços de ensino médio de jovens e adultos"|16.14|16.74
+"122041000"|"Serviços educacionais de graduação"|16.14|16.74
+"122042000"|"Serviços educacionais de pós-graduação"|16.14|16.74
+"122043000"|"Serviços educacionais de extensão"|16.14|16.74
+"122044000"|"Serviços educacionais de cursos sequenciais"|16.14|16.74
+"122050000"|"Serviços de educação especial"|16.14|16.74
+"122061100"|"Serviços culturais, com enfoque educacional"|16.57|17.17
+"122061200"|"Serviços de educação desportiva e recreacional"|16.57|17.17
+"122061300"|"Serviços de educação em línguas estrangeiras"|16.57|17.17
+"122061910"|"Serviços de palestras e conferências"|16.57|17.17
+"122061990"|"Outros serviços de educação e treinamento"|16.57|17.17
+"122062000"|"Serviços de apoio aos serviços educacionais"|16.57|17.17
+"123011100"|"Serviços cirúrgicos"|16.45|17.05
+"123011200"|"Serviços ginecológicos e obstétricos"|16.33|16.93
+"123011300"|"Serviços psiquiátricos"|16.34|16.94
+"123011400"|"Serviços cardiológicos"|17.90|18.50
+"123011500"|"Serviços oncológicos"|16.31|16.91
+"123011600"|"Serviços aos recém-nascidos"|15.72|16.32
+"123011700"|"Serviços de ambulâncias, exceto de ambulâncias destinadas unicamente para a remoção de enfermos, sem envolver atendimento médico ao paciente"|16.33|16.93
+"123011800"|"Serviços prestados em unidades de terapia intensiva"|16.33|16.93
+"123011910"|"Serviços de atendimento de urgência"|15.72|16.32
+"123011920"|"Serviços conexos à saúde pública"|15.72|16.32
+"123011990"|"Outros serviços hospitalares"|15.72|16.32
+"123012100"|"Serviços de clínica médica"|15.72|16.32
+"123012200"|"Serviços médicos especializados"|16.79|17.39
+"123012300"|"Serviços odontológicos"|16.30|16.90
+"123019100"|"Serviços de enfermagem"|16.32|16.92
+"123019200"|"Serviços fisioterapêuticos"|16.33|16.93
+"123019300"|"Serviços laboratoriais"|15.72|16.32
+"123019400"|"Serviços de diagnóstico por imagem"|16.33|16.93
+"123019500"|"Serviços de bancos de órgãos, esperma e sangue"|16.32|16.92
+"123019600"|"Serviços de bancos de leite, tecidos, olhos, ossos, óvulos e outros materiais biológicos"|16.32|16.92
+"123019900"|"Outros serviços de saúde humana, exceto os serviços hospitalares"|16.35|16.95
+"123021000"|"Serviços de consultoria em saúde"|13.45|14.05
+"123029000"|"Outros serviços de gestão hospitalar"|13.45|14.05
+"123030000"|"Serviços domiciliares de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências"|15.72|16.32
+"123040000"|"Serviços de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências, exceto domiciliar"|15.72|16.32
+"123051100"|"Serviços de atenção integral à família"|15.72|16.32
+"123051200"|"Serviços de convivência para crianças, adolescentes, jovens e idosos"|16.04|16.64
+"123051300"|"Serviços de apoio a autonomia e convivência familiar e comunitária"|15.72|16.32
+"123051900"|"Outros serviços de proteção social básica"|17.08|17.68
+"123052100"|"Serviços de acolhida para adultos e idosos em albergues, abrigos ou moradias provisórias"|15.72|16.32
+"123052200"|"Serviços de acolhida para crianças e adolescentes em repúblicas, casas de acolhida, abrigos ou com “família acolhedora”"|15.72|16.32
+"123052300"|"Serviços especiais de referência para pessoas com necessidades especiais, em situação de abandono, vítimas de negligência, abusos e formas de violência"|15.72|16.32
+"123052400"|"Serviços de apoio a situações de risco circunstanciais em decorrência de calamidades públicas e emergenciais"|15.72|16.32
+"123052500"|"Serviços especiais de referência para adolescentes em cumprimento de medida socioeducativa de liberdade assistida e de prestação de serviços a comunidade"|15.72|16.32
+"123052910"|"Serviços de reabilitação vocacional"|15.72|16.32
+"123052990"|"Outros serviços de assistência social"|15.72|16.32
+"123060000"|"Serviços de planos privados de assistência à saúde"|16.30|16.90
+"124010000"|"Serviços de tratamento de água"|13.45|14.05
+"124021000"|"Serviços de esgoto e tratamento de esgotos"|13.45|14.05
+"124022000"|"Serviços de esvaziamento e limpeza de fossas sépticas"|13.45|14.05
+"124031000"|"Serviços de coleta de resíduos sólidos perigosos, exceto de serviços de saúde"|18.33|18.93
+"124032000"|"Serviços de coleta de resíduos de serviços de saúde"|18.33|18.93
+"124033100"|"Serviços de coleta de resíduos sólidos de origem doméstica, comercial e de varrição"|18.33|18.93
+"124033200"|"Serviços de coleta de resíduos sólidos de origem industrial"|18.33|18.93
+"124033300"|"Serviços de coleta de resíduos sólidos recicláveis"|18.33|18.93
+"124033900"|"Serviços de coleta de outros resíduos sólidos não perigosos, inertes ou não inertes"|18.33|18.93
+"124034000"|"Serviços de coleta de resíduos líquidos"|18.33|18.93
+"124039000"|"Outros serviços de coleta de resíduos"|18.33|18.93
+"124041000"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos perigosos, exceto os resíduos de serviços de saúde"|18.33|18.93
+"124042000"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos de serviços de saúde"|18.33|18.93
+"124043100"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos de origem doméstica, comercial e de varrição"|18.33|18.93
+"124043200"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos de origem industrial"|18.33|18.93
+"124043300"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos recicláveis"|18.33|18.93
+"124043900"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos não perigosos, inertes ou não inertes"|18.33|18.93
+"124044000"|"Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos líquidos"|18.33|18.93
+"124049000"|"Outros serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos"|18.33|18.93
+"124051000"|"Serviços de varrição de ruas e outros locais públicos"|18.33|18.93
+"124059000"|"Outros serviços de saneamento"|18.33|18.93
+"124061000"|"Serviços ambientais relacionados à água"|18.31|18.91
+"124062000"|"Serviços ambientais relacionados ao solo"|18.40|19.00
+"124063000"|"Serviços ambientais relacionados ao ar"|13.45|14.05
+"124069000"|"Outros serviços ambientais"|13.45|14.05
+"124071100"|"Serviços de remediação do ar"|13.45|14.05
+"124071200"|"Serviços de remediação de águas de superfície"|13.45|14.05
+"124071300"|"Serviços de remediação do solo e águas subterrâneas"|13.45|14.05
+"124071400"|"Serviços de remediação em edificações"|13.45|14.05
+"124072000"|"Serviços de monitoração, controle e contenção"|13.45|14.05
+"124079000"|"Outros serviços de remediação"|13.45|14.05
+"125011100"|"Serviços de gravação de som em estúdio"|18.45|19.05
+"125011200"|"Serviços de gravação de som ao vivo"|18.45|19.05
+"125012100"|"Serviços de produção de programas de televisão, videoteipes e filmes"|17.88|18.48
+"125012200"|"Serviços de produção de programas de rádio"|17.88|18.48
+"125013100"|"Serviços de edição de obras audiovisuais"|18.45|19.05
+"125013200"|"Serviços de duplicação e transferência de obras audiovisuais"|18.45|19.05
+"125013300"|"Serviços de correção de cor e restauração digital de obras audiovisuais"|18.45|19.05
+"125013400"|"Serviços de efeitos visuais em obras audiovisuais"|18.45|19.05
+"125013500"|"Serviços de animação"|18.45|19.05
+"125013600"|"Serviços de legendas, títulos e dublagem em obras audiovisuais"|18.45|19.05
+"125013700"|"Serviços de projeto e edição de som em obras audiovisuais"|18.45|19.05
+"125013900"|"Outros serviços de pós-produção em obras audiovisuais"|18.45|19.05
+"125014000"|"Serviços de agenciamento pela comercialização de obras audiovisuais"|18.45|19.05
+"125015000"|"Serviços de projeção de filmes"|18.26|18.86
+"125021000"|"Serviços de organização e promoção de atuações artísticas ao vivo"|17.54|18.14
+"125022000"|"Serviços de produção e apresentação de atuações artísticas ao vivo"|17.58|18.18
+"125023000"|"Serviços de apoio para atuações artísticas ao vivo"|18.08|18.68
+"125029000"|"Outros serviços de entretenimento artístico ao vivo"|18.08|18.68
+"125031000"|"Serviços de atuação artística"|18.12|18.72
+"125032000"|"Serviços de autores, compositores, escultores, pintores e outros artistas, inclusive as obras inéditas, exceto os de atuação artística"|17.85|18.45
+"125041100"|"Serviços de museus"|18.45|19.05
+"125041200"|"Serviços de preservação e operação de locais e construções históricas"|13.45|14.05
+"125042100"|"Serviços de jardins botânico e zoológico"|17.65|18.25
+"125042200"|"Serviços de reserva natural, incluindo preservação de vida selvagem"|13.45|14.05
+"125051100"|"Serviços de organização e promoção de eventos desportivos e recreacionais desportivos"|18.45|19.05
+"125051200"|"Serviços de clubes desportivos"|17.85|18.45
+"125059000"|"Outros serviços de desportes e de recreação desportiva"|18.45|19.05
+"125060000"|"Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio relacionados com desportes e recreação desportiva"|13.45|14.05
+"125071000"|"Serviços de parques de diversões e atrações similares"|17.13|17.73
+"125079000"|"Outros serviços recreacionais e de diversão"|18.24|18.84
+"126011000"|"Serviços de limpeza de têxteis, exceto quando realizados a seco"|18.45|19.05
+"126012000"|"Serviços de limpeza a seco"|18.45|19.05
+"126013000"|"Serviços de tinturaria"|18.45|19.05
+"126019000"|"Outros serviços de lavanderia"|18.45|19.05
+"126021000"|"Serviços de cabelereiros e barbeiros"|18.45|19.05
+"126022000"|"Serviços de manicure, pedicure e tratamento cosmético"|18.45|19.05
+"126023000"|"Serviços de bem estar físico"|18.16|18.76
+"126029000"|"Outros tratamentos de beleza"|18.45|19.05
+"126030000"|"Serviços funerários, de cremação e de embalsamamento"|18.45|19.05
+"126040000"|"Outros serviços pessoais"|18.45|19.05
+"127011000"|"Cessão de direitos de obras literárias"|18.29|18.89
+"127012000"|"Cessão de direitos sobre programas de computador"|16.37|16.97
+"127013100"|"Cessão de direitos de obras cinematográficas"|18.29|18.89
+"127013200"|"Cessão de direitos de obras jornalísticas"|18.29|18.89
+"127013300"|"Cessão de direitos de obras publicitárias"|18.29|18.89
+"127013900"|"Cessão de direitos de outras obras audiovisuais"|18.29|18.89
+"127014000"|"Cessão de direitos de obras musicais e outros fonogramas"|18.29|18.89
+"127015000"|"Cessão de direitos relacionados à radiodifusão"|18.29|18.89
+"127019000"|"Cessão de outros direitos de autor e outros direitos conexos"|18.29|18.89
+"127021000"|"Cessão de direitos sobre patentes"|18.29|18.89
+"127022000"|"Cessão de direitos sobre marcas"|18.29|18.89
+"127023000"|"Cessão de direitos sobre desenho industrial"|18.29|18.89
+"127029000"|"Cessão de outros direitos sobre a propriedade intelectual"|18.29|18.89
+"127030000"|"Cessão de direitos sobre cultivares"|18.29|18.89
+"127040000"|"Cessão de direitos sobre topografias de circuitos integrados"|18.29|18.89
+"127050000"|"Cessão de direitos relativos à informação não divulgada"|18.29|18.89
+"127060000"|"Cessão de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores"|18.29|18.89
