@@ -1,32 +1,38 @@
 
 O objetivo desse projeto é tratar os arquivos com as tabelas
-oficiais da TIPI - NCM, disponibilizando a informação em formato
-texto.
+oficiais da TIPI - NCM, NBS e códigos de serviço da LC 116/03,
+disponibilizando a informação em formato texto.
 
 As tabelas oficiais da TIPI - NCM foram baixadas de:
 http://www.receita.fazenda.gov.br/aliquotas/downloadarqtipi.htm
 
-Atenção: *não usar* o arquivo disponível em:
-http://www.receita.fazenda.gov.br/publico/tipi/TIPI.doc
-ele está com vários códigos faltando....
+O arquivo foi baixado e aberto no LibreOffice.
 
-Cada arquivo foi baixado e aberto no LibreOffice.
-
-Cada tabela dentro de cada arquivo foi convertida para texto:
+Cada tabela *com códigos NCM* dentro do arquivo foi convertida para texto:
 Menu Tabela, Converter..., De tabela para texto..., Outros, "|"
 
 Depois de cada tabela convertida, o arquivo foi salvo em formato texto:
-Arquivo, Salvar como..., Filtro: texto codificado (.txt), Usar texto 
+Arquivo, Salvar como..., Filtro: texto codificado (.txt), Usar texto
 codificado, Unicode + LF
 
 Depois, todos os arquivos foram resumidos num único:
-$ cat *.txt | grep \| > tabela_ncm_ipi.txt
+$ cat TIPI.txt | grep \| > tabela_ncm_ipi.txt
 
 As tabelas oficiais das CST do PIS-COFINS foram baixadas de:
 http://www.sped.fazenda.gov.br/spedtabelas/AppConsulta/publico/aspx/ConsultaTabelasExternas.aspx?CodSistema=SpedPisCofins
 
+As tabelas oficiais da NBS foram baixadas de (em 12/07/2013):
+https://www.google.com.br/url?q=http://www.desenvolvimento.gov.br/arquivos/dwnl_1333484934.pdf&sa=U&ei=_n_gUbv2OZKrqQGvk4GgCw&ved=0CCIQFjAC&usg=AFQjCNF0NWF0bGEjAa-Hb3DcoEB6Hx8BvA
+
+O PDF foi aberto no Okular, e exportado como texto puro, para o arquivo nbs.txt
+
+A tabela dos impostos da IBPT foi baixada daqui (requer cadastro):
+http://movimentoac.com.br/deolhonoimposto/empresario-saiba.php
+
 Por fim, usando Python versão 3:
 $ python processa_tabela_ncm.py
+$ python processa_tabela_nbs.py
+$ python processa_tabela_servicos.py
 
 O Python 3 foi usado para meus testes pessoais, para provas
 de conceito como utf-8 em todo lugar, inclusive em nomes de variáveis e
