@@ -82,6 +82,9 @@ class AnálisePIS(object):
         self.al_cofins = ''
         self.unidade = ''
 
+        if st_pis_cofins == '':
+            st_pis_cofins = ST_PIS_TRIB_NORMAL
+
         if st_pis_cofins == ST_PIS_TRIB_DIFERENCIADA_MONOFÁSICA:
             st_pis_cofins = ST_PIS_TRIB_MONOFÁSICA
         elif st_pis_cofins == ST_PIS_TRIB_QUANTIDADE_MONOFÁSICA:
@@ -106,6 +109,8 @@ class AnálisePIS(object):
         elif st_pis_cofins == ST_PIS_COM_SUSPENSÃO:
             self.st_pis_cofins_entrada = ST_PIS_AQUIS_COM_SUSPENSAO
 
+    def __repr__(self):
+        return self.ex+'|'+self.st_pis_cofins_entrada+'|'+self.st_pis_cofins+'|'+self.código_justificativa
 
 ANÁLISES_ST_PIS = []
 
@@ -163,8 +168,8 @@ def cria_regex_tabela(st_pis_cofins):
         if campos[COLUNAS[st_pis_cofins][COLUNA_CÓDIGO]] != '':
             análise.código_justificativa = campos[COLUNAS[st_pis_cofins][COLUNA_CÓDIGO]]
 
-        if campos[COLUNAS[st_pis_cofins][COLUNA_EX]] != '':
-            análise.ex = campos[COLUNAS[st_pis_cofins][COLUNA_EX]]
+        if campos[COLUNAS[st_pis_cofins][COLUNA_EX]].strip() != '':
+            análise.ex = campos[COLUNAS[st_pis_cofins][COLUNA_EX]].strip()
 
         if len(campos) <= COLUNA_AL_PIS and campos[COLUNAS[st_pis_cofins][COLUNA_AL_PIS]] != '':
             análise.al_pis = campos[COLUNAS[st_pis_cofins, COLUNA_AL_PIS]]
@@ -178,19 +183,51 @@ def cria_regex_tabela(st_pis_cofins):
         ANÁLISES_ST_PIS.append(análise)
 
 
-def cria_analises_pis_cofins():
+def cria_análises_pis_cofins():
     for st_pis_cofins in ARQUIVO.keys():
         cria_regex_tabela(st_pis_cofins)
 
 
-def ncm_pertence_a_st_pis_cofins(ncm):
+def ncm_pertence_a_st_pis_cofins(ncm, ex):
+    _achou = None
+
+    def achou(análise, _achou):
+        if _achou is None:
+            _achou = análise
+        elif _achou.st_pis_cofins < análise.st_pis_cofins:
+            _achou = análise
+        elif _achou.st_pis_cofins == análise.st_pis_cofins:
+            if _achou.código_justificativa < análise.código_justificativa:
+                _achou = análise
+
+        return _achou
+
     for análise in ANÁLISES_ST_PIS:
         if análise.ncm is not None:
+            #
+            # O NCM bate
+            #
             if análise.ncm.match(ncm):
-                if análise.ncm_excluído is None:
-                    return análise
+                #print('achou ', ncm, '"', ex, '"-"', análise.ex, '"', ex == análise.ex)
+                #
+                # E não consta dos NCMs excluídos
+                #
+                if (análise.ncm_excluído is None):
+                    if análise.ex == '' or ex == análise.ex:
+                        #achou += [análise]
+                        _achou = achou(análise, _achou)
 
                 elif not análise.ncm_excluído.match(ncm):
-                    return análise
+                    #
+                    # E o código EX, se houver, também bate
+                    #
+                    if análise.ex == '' or ex == análise.ex:
+                        #achou += [análise]
+                        _achou = achou(análise, _achou)
 
-    return None
+    #if len(achou):
+        ##if len(achou) > 1:
+        #print('achou de mais', ncm, ex, achou)
+        #return achou[0]
+
+    return _achou
