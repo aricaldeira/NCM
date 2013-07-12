@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 import re
-from converte_tabela_pis_cofins import cria_analises_pis_cofins, ncm_pertence_a_st_pis_cofins
-
+from converte_tabela_pis_cofins import cria_análises_pis_cofins, ncm_pertence_a_st_pis_cofins
+from converte_tabela_ibpt import cria_análises_ibpt, ibpt_para_ncm
 
 grupo = {
     1: '',
@@ -64,8 +64,10 @@ def processa_linha(linha):
     al_pis = ''
     al_cofins = ''
     unidade = ''
+    al_ibpt_nacional = '0'
+    al_ibpt_internacional = '0'
 
-    if al_ipi == 'NT':
+    if al_ipi == 'NT' or al_ipi == '':
         al_ipi = '-1'
         cst_ipi_entrada = '03'
         cst_ipi_saída = '53'
@@ -104,11 +106,12 @@ def processa_linha(linha):
 
     if len(ncm) == 8:
         descrição = processa_grupo(ncm, descrição)
-        análise_pis_cofins = ncm_pertence_a_st_pis_cofins(ncm)
+        análise_pis_cofins = ncm_pertence_a_st_pis_cofins(ncm, ex)
+        ibpt = ibpt_para_ncm(ncm, ex)
 
         código_pis_cofins = ''
-        cst_pis_cofins_saída = ''
-        cst_pis_cofins_entrada = ''
+        cst_pis_cofins_saída = '01'
+        cst_pis_cofins_entrada = '50'
 
         if análise_pis_cofins is not None:
             código_pis_cofins = análise_pis_cofins.código_justificativa
@@ -118,21 +121,26 @@ def processa_linha(linha):
             al_cofins = análise_pis_cofins.al_cofins
             unidade = análise_pis_cofins.unidade
 
-        print('"%s"|"%s"|"%s"|%s|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"|"%s"' % (ncm, ex, descrição, al_ipi, cst_ipi_entrada, cst_ipi_saída, cst_pis_cofins_entrada, cst_pis_cofins_saída, código_pis_cofins, al_pis, al_cofins, unidade ))
+        if ibpt is not None:
+            al_ibpt_nacional = ibpt.al_nacional
+            al_ibpt_internacional = ibpt.al_internacional
+
+        print('"%s"|"%s"|"%s"|%s|"%s"|"%s"|"%s"|"%s"|"%s"|%s|%s|"%s"|%s|%s' % (ncm, ex, descrição, al_ipi, cst_ipi_entrada, cst_ipi_saída, cst_pis_cofins_entrada, cst_pis_cofins_saída, código_pis_cofins, al_pis, al_cofins, unidade, al_ibpt_nacional, al_ibpt_internacional))
         return ncm
 
 
 if __name__ == '__main__':
 
-    cria_analises_pis_cofins()
+    cria_análises_pis_cofins()
+    cria_análises_ibpt()
     arq = open('tabelas/tabela_ncm_ipi.txt', 'r', encoding='utf-8')
 
-    print('"NCM"|"EX"|"DESCRIÇÃO"|"AL_IPI"|"CST_IPI_ENTRADA"|"CST_IPI_SAÍDA"|"CST_PIS_COFINS_ENTRADA"|"CST_PIS_COFINS_SAÍDA"|"CÓDIGO_JUSTIFICATIVA_ENQUADRAMENTO_PIS_COFINS"|"AL_PIS"|"AL_COFINS"|"UNIDADE"')
+    print('"NCM"|"EX"|"DESCRIÇÃO"|"AL_IPI"|"CST_IPI_ENTRADA"|"CST_IPI_SAÍDA"|"CST_PIS_COFINS_ENTRADA"|"CST_PIS_COFINS_SAÍDA"|"CÓDIGO_JUSTIFICATIVA_ENQUADRAMENTO_PIS_COFINS"|"AL_PIS"|"AL_COFINS"|"UNIDADE"|"AL_IBPT_NACIONAL"|"AL_IBPT_INTERNACIONAL"')
     for linha in arq.readlines():
         #
         # Corrige alguns caracteres nas descrições
         #
-        linha = linha.replace('\n', '').replace('\t', '').replace(' ', '')
+        linha = linha.replace('\n', '').replace('\t', '').replace(' ', '').replace('\r', '')
         linha = linha.replace('– ', '')
         linha = re.sub('([0-9¾½])"', r'\1″', linha)
         linha = re.sub('([0-9])\'', r'\1′', linha)
@@ -148,7 +156,9 @@ if __name__ == '__main__':
             linha = linha.replace('  ', ' ')
 
         if linha[0].isdigit():
+            #print(linha)
             ncm = processa_linha(linha)
 
         elif 'EX' in linha.upper():
+            #print(linha)
             processa_linha(ncm + linha.replace('Ex0', 'Ex 0'))
